@@ -1,0 +1,37 @@
+// Basically, all of these nations have a thing in common: the generation of the Steam resource. What differs is how they use them. Some common buildings use Steam, and can only be seen if you have it.
+
+/*
+Vincian States
+a collection of city-states banding together, mostly uses clockwork infantry/cavalry and science buildings (babbage/difference engines, etc)
+UW: Genius' Workshop (spawns 2 Architron Infantries)
+UU: Architron Infantry Model
+UU: Architron Cavalry Model
+UB: Difference Engine
+UB: Clockwork Workshop
+UB: Clockwork Winding Station (required for Architrons, needs Steam)
+UB: Inventor's Council
+UB: Archimedean Defenses
+
+Laverne Aetherial Kingdom
+focuses on airships, dirigibles, and flying platforms
+UW: Aetherodrome (gives some Steam, spawns 1 Speeder Hover & 1 Ornithopter)
+UU: Speeder Hover (needs Steam)
+UU: Skychaser (bike sized flyer)
+UU: Ornithopter (early fighter)
+UU: Aero-Explorer (scout blimp)
+UU: Cannon Dirigible (arty)
+UU: Royal Air-Carrier (carrier blimp)
+UB: Dirigible Hangar (needs Steam)
+UB: Aetheric Engine Garage (needs Steam)
+UB: Skycaptains' Tavern
+UB: Flying Platform
+
+Krieger Metalwerks
+focuses on landships, vehicles, factories
+
+Grand Albion
+exploitative, focuses on steam cannons and arty
+
+Proletaria
+workers' rebellion, focuses on industry and weaponized utility stuff
+*/
