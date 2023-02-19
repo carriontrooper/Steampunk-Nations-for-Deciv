@@ -6,6 +6,9 @@ a collection of city-states banding together, mostly uses clockwork infantry/cav
 UW: Genius' Workshop (spawns 2 Architron Infantries)
 UU: Architron Infantry Model
 UU: Architron Cavalry Model
+UU: Architron Guardian Model
+UU: Helix Aircopter
+UU: Roulette Tank
 UB: Difference Engine
 UB: Clockwork Workshop
 UB: Clockwork Winding Station (required for Architrons, needs Steam)
@@ -28,15 +31,67 @@ UB: Flying Platform
 
 Krieger Metalwerks
 focuses on landships, vehicles, factories
+UW: Central Factory (gives some Steam, spawns 1 Gunther Lpz Mk I)
+UU: Brunhild Gpz Mk I (needs Steam and Oil)
+UU: Brunhild Gpz Mk II (needs Steam and Oil)
+UU: Gunther Lpz Mk I (needs Steam)
+UU: Gunther Lpz Mk II (needs Steam)
+UU: Armored Scout Car
+UU: Stormtrooper
+UB: Metalworks (needs Steam)
+UB: Landship Assembly Line (needs Steam)
+UB: Landship Design Bureau (prereq for Mk IIs)
+UB: Military-Grade Boiler (gives Steam)
+UB: Auxiliary Boiler (gives Steam)
+UB: Munitions Factory (gives Steam)
 
 Grand Albion
-exploitative, focuses on steam cannons and arty
+exploitative, focuses on ships, steam cannons and arty
+UW: Grand Royal Palace (spawns 3 Royal Musketeers)
+UU: Royal Musketeer
+UU: Mobile Cannon (needs Steam)
+UU: Victoria Artillery (needs Steam)
+UU: Steamboat (needs Steam)
+UU: Steam Cruiser (needs Steam)
+UU: Steam Battleship (needs Steam)
+UB: Augmented Farms (needs Steam)
+UB: Augmented Mines (needs Steam)
+UB: Steam Workboat Harbor (needs Steam)
+UB: Indentured Labor Office (gives some Slaves)
+UB: Smokestack District
+UB: Royal Garden
+UB: Smog Market
+UB: Galvanized Walls
 
 Proletaria
 workers' rebellion, focuses on industry and weaponized utility stuff
+UW: Revolutionary Monument (spawns 2 Mecha-Glove Brawler)
+UU: Mecha-Glove Brawler
+UU: Driller (needs Steam)
+UU: Tachanka Truck
+UU: Makeshift Steamsuit (needs Steam)
+UU: Hazard Steamsuit (needs Steam, immune to fallout and toxic waste)
+UB: Communal Factory
+UB: Makeshift Boiler (gives Steam)
+UB: Revolutionary Council
+UB: Makeshift Barricades
 
 Wild Stallions
 old west, railroads, gunslingers, cowboys
+UW: Stallion Saloon (spawns 2 Bounty Hunters)
+UU: Air Rifleman
+UU: Bounty Hunter
+UU: Rough Rider
+UU: Monowheel
+UU: Steel Horseman (needs Steam)
+UU: Steam Locomotive (needs Steam)
+UU: Armored Locomotive (needs Steam)
+UU: Steam Spider (needs Steam)
+UB: Bounty Board (prereq for Bounty Hunters)
+UB: Trainyard (prereq for Locomotives)
+UB: Tracklayer's Guild
+UB: Firing Range
+UB: Gunsmithy (gives Guns)
 */
 
 [
