@@ -94,6 +94,132 @@ UB: Firing Range
 UB: Gunsmithy (gives Guns)
 */
 
-[
+/* template: at least 20 city names
+	also 10 spy names
 	
+	// victory types: Scientific, Diplomatic, Cultural, Domination
+	
+	{
+		"name": "EmpireName",
+		"leaderName": "LeaderName",
+		"adjective": ["Adjective"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "ReligionName",
+		"uniqueName": "UniqueName",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Capital",
+			"City1",
+			"City2",
+			"City3",
+			"City4",
+			"City5",
+			"City6",
+			"City7",
+			"City8",
+			"City9",
+			"City10",
+			"City11",
+			"City12",
+			"City13",
+			"City14",
+			"City15",
+			"City16",
+			"City17",
+			"City18",
+			"AndSoOn"
+		],
+		"spyNames": [
+			"Spy1",
+			"Spy2",
+			"Spy3",
+			"Spy4",
+			"Spy5",
+			"Spy6",
+			"Spy7",
+			"Spy8",
+			"Spy9",
+			"Spy10"
+		]
+	},
+	*/
+
+[
+	{
+		"name": "Vincian States",
+		"leaderName": "Archibald Vince Turing",
+		"adjective": ["Vincian"],
+		"startBias": ["Wasteland"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [179, 112, 20],
+		"innerColor": [217, 242, 255],
+		"favoredReligion": "Savant Sainthood",
+		"uniqueName": "Clockwork Ingenuity",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Clockwise",
+			"Spring Field",
+			"Archimedea",
+			"Gearloose",
+			"Chime City",
+			"Brasstown",
+			"Springleaf",
+			"Tickville",
+			"Tockston",
+			"Tempus",
+			"Antikythera",
+			"Gizmo City",
+			"Clockstead",
+			"Cogtown",
+			"Pulley Junction",
+			"Levertown",
+			"Hourglass",
+			"Minute Detail",
+			"First Second",
+			"Port Noon"
+		],
+		"spyNames": [
+			"Operative I",
+			"Operative II",
+			"Operative III",
+			"Operative IV",
+			"Operative V",
+			"Operative VI",
+			"Operative VII",
+			"Operative VIII",
+			"Operative IX",
+			"Operative X"
+		]
+	},
 ]
