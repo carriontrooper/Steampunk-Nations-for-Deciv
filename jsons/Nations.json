@@ -1,3 +1,4 @@
+[
 // Basically, all of these nations have a thing in common: the generation of the Steam resource. What differs is how they use them. Some common buildings use Steam, and can only be seen if you have it.
 
 /*
@@ -161,7 +162,6 @@ UB: Gunsmithy (gives Guns)
 	},
 	*/
 
-[
 	{
 		"name": "Vincian States",
 		"leaderName": "Archibald Vince Turing",
