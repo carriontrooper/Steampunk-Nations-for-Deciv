@@ -108,7 +108,7 @@ UB: Gunsmithy (gives Guns)
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart2": ".",
 
 		"declaringWar": ".",
 		"attacked": ".",
@@ -166,7 +166,7 @@ UB: Gunsmithy (gives Guns)
 		"name": "Vincian States",
 		"leaderName": "Archibald Vince Turing",
 		"adjective": ["Vincian"],
-		"startBias": ["Wasteland"],
+		"startBias": ["Coastal"],
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": ".",
@@ -220,6 +220,128 @@ UB: Gunsmithy (gives Guns)
 			"Operative VIII",
 			"Operative IX",
 			"Operative X"
+		]
+	},
+	
+	{
+		"name": "Laverne Aetherial Kingdom",
+		"leaderName": "Jasper La Verne",
+		"adjective": ["Lavernian"],
+		"startBias": ["Wasteland"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [0, 117, 227],
+		"innerColor": [222, 156, 255],
+		"favoredReligion": "Aetherist Church",
+		"uniqueName": "Winds of Exploration",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Aethernum",
+			"Skyloft",
+			"Eolie",
+			"Aquilania",
+			"Bon Brouillard",
+			"Stratus",
+			"Vent Doux",
+			"Azur Ciel",
+			"Fumigene",
+			"Voleriele",
+			"Bonne Voyage",
+			"Baderne",
+			"Avionee",
+			"Aeraulique",
+			"Flottandaise",
+			"Anemoia",
+			"Zephyria",
+			"Borealia",
+			"Notus Hold",
+			"Eurutia"
+		],
+		"spyNames": [
+			"Cumulus",
+			"Cirrus",
+			"Nimbus",
+			"Stratus",
+			"Cumulonimbus",
+			"Nimbostratus",
+			"Stratocumulus",
+			"Altostratus",
+			"Altocumulus",
+			"Noctilucent"
+		]
+	},
+	
+	{
+		"name": "Krieger Metalworks",
+		"leaderName": "Konrad Junkers",
+		"adjective": ["Krieger"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "Vorsprung Durch Technik",
+		"uniqueName": "Unrelenting Industry",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Schmiedefabrik",
+			"Legierungsstadt",
+			"Stahldorf",
+			"Eisenfabrik",
+			"Messingdorf",
+			"Kanonenstadt",
+			"Kugeldorf",
+			"Ostliche Panzerfabrik",
+			"Sudliche Panzerfabrik",
+			"Westliche Panzerfabrik",
+			"Nordliche Panzerfabrik",
+			"Zentrale Panzerfabrik",
+			"Vergessen",
+			"Gewehrsburg",
+			"Getriebe",
+			"Tanklaufflachen",
+			"Frontlinie",
+			"Metallschmiede",
+			"Ambossdorf",
+			"Munitionsfabrik"
+		],
+		"spyNames": [
+			"Eisen",
+			"Stahl",
+			"Messing",
+			"Kupfer",
+			"Blei",
+			"Elektr",
+			"Silber",
+			"Titan",
+			"Zinn",
+			"Kobalt"
 		]
 	},
 ]
