@@ -1,3 +1,12 @@
 [
-	
+	{
+		"name": "Steam",
+		"production": 1,
+		"resourceType": "Strategic",
+		"civilopediaText": [
+			{
+				"text": "Water vapor heated to a high temperature, that allows it to become a source of mechanical energy by turning gears."
+			}
+		]
+	},
 ]
