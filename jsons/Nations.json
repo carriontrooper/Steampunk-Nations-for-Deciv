@@ -92,7 +92,7 @@ UB: Bounty Board (prereq for Bounty Hunters)
 UB: Trainyard (prereq for Locomotives)
 UB: Tracklayer's Guild
 UB: Firing Range
-UB: Gunsmithy (gives Guns)
+UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 */
 
 /* template: at least 20 city names
@@ -164,9 +164,9 @@ UB: Gunsmithy (gives Guns)
 
 	{
 		"name": "Vincian States",
-		"leaderName": "Archibald Vince Turing",
+		"leaderName": "Arcimboldo Vincenzo da Turin",
 		"adjective": ["Vincian"],
-		"startBias": ["Coastal"],
+		"startBias": ["Coast"],
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": ".",
@@ -288,7 +288,7 @@ UB: Gunsmithy (gives Guns)
 		"name": "Krieger Metalworks",
 		"leaderName": "Konrad Junkers",
 		"adjective": ["Krieger"],
-		"startBias": ["Tundra"],
+		"startBias": ["Hill"],
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
@@ -365,44 +365,166 @@ UB: Gunsmithy (gives Guns)
 
 		"tradeRequest": ".",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [255, 84, 84],
+		"innerColor": [241, 199, 255],
 		"favoredReligion": "Golden Glory",
-		"uniqueName": "UniqueName",
+		"uniqueName": "Might of Albion",
 		"uniques": ["Uniques Go Here"],
 		"cities": [
-			"Capital",
-			"City1",
-			"City2",
-			"City3",
-			"City4",
-			"City5",
-			"City6",
-			"City7",
-			"City8",
-			"City9",
-			"City10",
-			"City11",
-			"City12",
-			"City13",
-			"City14",
-			"City15",
-			"City16",
-			"City17",
-			"City18",
-			"AndSoOn"
+			"Westminster",
+			"Mornington Circle",
+			"Camden Town",
+			"Covent Garden",
+			"Southwark",
+			"Oxford Circus",
+			"Moorgate",
+			"Barbican",
+			"Wapping",
+			"Zimmingham",
+			"Paddington",
+			"South Kensington",
+			"Bermondsey",
+			"Ladbroke Grove",
+			"Kilburn",
+			"Brixton",
+			"Blackwall",
+			"Leyton",
+			"Marylebone",
+			"Charing Cross"
 		],
 		"spyNames": [
-			"Spy1",
-			"Spy2",
-			"Spy3",
-			"Spy4",
-			"Spy5",
-			"Spy6",
-			"Spy7",
-			"Spy8",
-			"Spy9",
-			"Spy10"
+			"Agent Alfred",
+			"Agent Beatrix",
+			"Agent Cameron",
+			"Agent Douglas",
+			"Agent Edward",
+			"Agent Francine",
+			"Agent Gilbert",
+			"Agent Harriet",
+			"Agent Isabel",
+			"Agent Julia"
 		]
 	},
+	
+	{
+		"name": "Proletaria",
+		"leaderName": "Ilya Muromets",
+		"adjective": ["Proletar"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [242, 165, 97],
+		"innerColor": [128, 79, 0],
+		"favoredReligion": "Luddism",
+		"uniqueName": "Workers' Union",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Lomonosovsky Prospekt",
+			"Kropotkinskaya",
+			"Shabolovskaya",
+			"Kashirskaya",
+			"Kitay-Gorod",
+			"Shelepikha",
+			"Vladyniko",
+			"Babushkinskaya",
+			"Treytakovskaya",
+			"Pechatniki",
+			"Belyayevo",
+			"Lubyanka",
+			"Perovo",
+			"Zyablikovo",
+			"Annino",
+			"Oktyabyrskaya",
+			"Strogino",
+			"Prokshino",
+			"Sokol",
+			"Rostokino"
+		],
+		"spyNames": [
+			"DVM-4",
+			"VL11",
+			"TEP70",
+			"HS4000",
+			"BCG-1",
+			"81-720",
+			"ED4",
+			"ER2000",
+			"ChS3",
+			"TU8"
+		]
+	},
+	
+	{
+		"name": "Wild Stallions",
+		"leaderName": "Bill Winchester",
+		"adjective": ["Wild Stallion"],
+		"startBias": ["Badlands"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [255, 136, 0],
+		"innerColor": [48, 110, 0],
+		"favoredReligion": "Caliber Gospel",
+		"uniqueName": "Desperadoes",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Tombstone",
+			"Deadwood",
+			"Durango",
+			"Abilene",
+			"Truth or Consequences",
+			"Amarillo",
+			"Dodge City",
+			"Cody",
+			"Oatman",
+			"Bodie",
+			"Bandera",
+			"Sheridan",
+			"Prescott",
+			"Leadville",
+			"Cripple Creek",
+			"Calico",
+			"Cimarron",
+			"Bannack",
+			"Gleeson",
+			"Bisbee"
+		],
+		"spyNames": [
+			"Yellowbelly",
+			"Bluebelly",
+			"Grassbelly",
+			"Lily-liver",
+			"Bigmouth",
+			"Fiddlehead",
+			"High-binder",
+			"Leadfoot",
+			"Mudsill",
+			"Windbag"
+		]
+	}
 ]
