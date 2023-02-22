@@ -127,4 +127,68 @@
 			}
 		]
 	},
+	
+	// unique buildings
+	/*
+	Vincian:
+	UB: Difference Engine
+	UB: Clockwork Workshop
+	UB: Clockwork Winding Station (required for Architrons, needs Steam)
+	UB: Inventor's Council
+	UB: Archimedean Defenses
+	
+	Lavernian:
+	UB: Dirigible Hangar (needs Steam)
+	UB: Aetheric Engine Garage (needs Steam)
+	UB: Skycaptains' Tavern
+	UB: Flying Platform
+	
+	Krieger:
+	UB: Metalworks (needs Steam)
+	UB: Landship Assembly Line (needs Steam)
+	UB: Landship Design Bureau (prereq for Mk IIs)
+	UB: Military-Grade Boiler (replaces Oil-Fueled Boiler)
+	UB: Auxiliary Boiler (needs Coal, gives Steam, requires Coal Boiler)
+	UB: Munitions Factory (gives Weapons)
+	
+	Albion:
+	UB: Augmented Farms (needs Steam)
+	UB: Augmented Mines (needs Steam)
+	UB: Steam Workboat Harbor (needs Steam)
+	UB: Indentured Labor Office (gives some Slaves)
+	UB: Smokestack District
+	UB: Royal Garden
+	UB: Smog Market
+	UB: Galvanized Walls
+	
+	Proletar:
+	UB: Communal Factory
+	UB: Makeshift Boiler (gives Steam)
+	UB: Revolutionary Council
+	UB: Makeshift Barricades
+	
+	Wild Stallions:
+	UB: Bounty Board (prereq for Bounty Hunters)
+	UB: Trainyard (prereq for Locomotives)
+	UB: Tracklayer's Guild
+	UB: Firing Range
+	UB: Pneumatic Gunsmithy (needs Steam, gives Weapons)
+	*/
+	
+	// non-unique steam producers
+	/*
+	Coal Boiler (needs Coal, -1 gold)
+	Oil-fueled Boiler (needs Oil, -2 gold)
+	Nuclear Boiler (needs Uranium, -3 gold)
+	Superheater (needs Steam, gives more Steam, -1 gold)
+	*/
+	
+	// non-unique steam consumers
+	/*
+	Steam Generator (gives Power)
+	Steam Turbine (gives more Power)
+	Soil Sterilization (+food on farms)
+	Household Steam Utilization (+happiness)
+	Petrochem Steam Reactant (needs Oil Plant, +production)
+	*/
 ]
