@@ -4,10 +4,16 @@
 /*
 Vincian States
 a collection of city-states banding together, mostly uses clockwork infantry/cavalry and science buildings (babbage/difference engines, etc)
-UW: Genius' Workshop (spawns 2 Architron Infantries)
-UU: Architron Infantry Model
-UU: Architron Cavalry Model
-UU: Architron Guardian Model
+UW: Genius' Workshop (spawns 2 Architron Infantry Models)
+UU: Architron Infantry Model (can transform into Architron Infantry Melee and Architron Infantry Ranged)
+UU: Architron Infantry Melee (can transform into Architron Infantry Ranged, Unbuildable)
+UU: Architron Infantry Ranged (can transform into Architron Infantry Melee, Unbuildable)
+UU: Architron Cavalry Model (can transform into Architron Armored Cavalry and Architron Lightning Cavalry)
+UU: Architron Armored Cavalry (can transform into Architron Lightning Cavalry, Unbuildable)
+UU: Architron Lightning Cavalry (can transform into Architron Armored Cavalry, Unbuildable)
+UU: Architron Guardian Model (can transform into Architron Stoic Guardian and Architron Fierce Guardian)
+UU: Architron Stoic Guardian (can transform into Architron Fierce Guardian, Unbuildable)
+UU: Architron Fierce Guardian (can transform into Architron Stoic Guardian, Unbuildable)
 UU: Helix Aircopter
 UU: Roulette Tank
 UB: Difference Engine
