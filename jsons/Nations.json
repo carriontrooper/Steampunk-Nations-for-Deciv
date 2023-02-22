@@ -20,8 +20,8 @@ Laverne Aetherial Kingdom
 focuses on airships, dirigibles, and flying platforms
 UW: Aetherodrome (gives some Steam, spawns 1 Speeder Hover & 1 Ornithopter)
 UU: Speeder Hover (needs Steam)
-UU: Skychaser (bike sized flyer)
-UU: Ornithopter (early fighter)
+UU: Skychaser (bike sized flyer, early scout heli)
+UU: Ornithopter (early combat heli)
 UU: Aero-Explorer (scout blimp)
 UU: Cannon Dirigible (arty)
 UU: Royal Air-Carrier (carrier blimp)
@@ -44,7 +44,7 @@ UB: Landship Assembly Line (needs Steam)
 UB: Landship Design Bureau (prereq for Mk IIs)
 UB: Military-Grade Boiler (gives Steam)
 UB: Auxiliary Boiler (gives Steam)
-UB: Munitions Factory (gives Steam)
+UB: Munitions Factory (gives Weapons)
 
 Grand Albion
 exploitative, focuses on ships, steam cannons and arty
@@ -186,7 +186,12 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [217, 242, 255],
 		"favoredReligion": "Savant Sainthood",
 		"uniqueName": "Clockwork Ingenuity",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"[+1 Production] from every [Scientist]",
+			"[+1 Science] from every [Engineer]",
+			"[+1 Science, +1 Production] from every [Academy] <when not at war>",
+			"Starts with [Machinery]"
+		],
 		"cities": [
 			"Citadel Orologio",
 			"Campo Molle",
@@ -247,7 +252,20 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [222, 156, 255],
 		"favoredReligion": "Aetherist Church",
 		"uniqueName": "Winds of Exploration",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"[+1] Movement <for [Dirigible] units>", //might turn this into a promotion
+			"[+1] Movement <for [Helicopter] units>", //might turn this into a promotion
+			"[+1] Sight <for [Scout] units>", //might turn this into a promotion
+			"[+10 Culture] whenever a Great Person is expended <during the [Decivilized era]>",
+			"[+50 Culture] whenever a Great Person is expended <during the [Rediscovering era]>",
+			"[+100 Culture] whenever a Great Person is expended <during the [Neofeudal era]>",
+			"[+150 Culture] whenever a Great Person is expended <during the [Rebuilding era]>",
+			"[+200 Culture] whenever a Great Person is expended <during the [Industrial era]>",
+			"[+250 Culture] whenever a Great Person is expended <during the [Postmodern era]>",
+			"[+300 Culture] whenever a Great Person is expended <during the [Information era]>",
+			"[+350 Culture] whenever a Great Person is expended <during the [New Future era]>",
+			"[+400 Culture] whenever a Great Person is expended <during the [Singularity era]>",
+		],
 		"cities": [
 			"Aethernum",
 			"Skyloft",
@@ -308,7 +326,14 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [126, 192, 253],
 		"favoredReligion": "Vorsprung Durch Technik",
 		"uniqueName": "Unrelenting Industry",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"[+5]% Strength <when attacking> <when above [5] [Steam]>", //might turn this into a promotion
+			"[+10]% Strength <when attacking> <when above [20] [Steam]>", //might turn this into a promotion
+			"[+20]% maintenance costs <when above [20] [Steam]>",
+			"[+10 Production] [In all cities] <when above [10] [Steam]>",
+			"Double quantity of [Weapons] produced <when above [10] [Steam]>",
+			"Starts with [Iron Working]"
+		],
 		"cities": [
 			"Schmiedefabrik",
 			"Legierungsstadt",
@@ -348,7 +373,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 	{
 		"name": "Grand Albion",
 		"leaderName": "Victoria Balmoral",
-		"adjective": ["Adjective"],
+		"adjective": ["Albion"],
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
 
@@ -369,7 +394,12 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [241, 199, 255],
 		"favoredReligion": "Golden Glory",
 		"uniqueName": "Might of Albion",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"Starts with [Monopoly] adopted",
+			"[+20]% Strength <during a Golden Age>", //might turn this into a promotion
+			"[+20]% Gold from Great Merchant trade missions",
+			"Double quantity of [Slaves] produced <during a Golden Age>",
+		],
 		"cities": [
 			"Westminster",
 			"Mornington Circle",
@@ -430,7 +460,12 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [128, 79, 0],
 		"favoredReligion": "Luddism",
 		"uniqueName": "Workers' Union",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"Starts with [Collectivism] adopted",
+			"[-10]% tile improvement construction time",
+			"[+5 Production] <in cities with at least [5] [Population]>",
+			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>" //might turn this into a promotion
+		],
 		"cities": [
 			"Lomonosovsky Prospekt",
 			"Kropotkinskaya",
@@ -491,7 +526,12 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"innerColor": [48, 110, 0],
 		"favoredReligion": "Caliber Gospel",
 		"uniqueName": "Desperadoes",
-		"uniques": ["Uniques Go Here"],
+		"uniques": [
+			"Damage is ignored when determining unit Strength <when below [10] HP>", //might turn this into a promotion
+			"Double quantity of [Horses] produced",
+			"Free [Bounty Hunter] appears <upon entering a Golden Age>",
+			"[+2 Gold] from each Trade Route"
+		],
 		"cities": [
 			"Tombstone",
 			"Deadwood",
