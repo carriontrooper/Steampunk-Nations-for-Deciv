@@ -1,3 +1,58 @@
 [
+	//unique units
+	/*
+	Vincian:
+	UU: Architron Infantry Model (can transform into Architron Infantry Melee and Architron Infantry Ranged)
+	UU: Architron Infantry Melee (can transform into Architron Infantry Ranged, Unbuildable)
+	UU: Architron Infantry Ranged (can transform into Architron Infantry Melee, Unbuildable)
+	UU: Architron Cavalry Model (can transform into Architron Armored Cavalry and Architron Lightning Cavalry)
+	UU: Architron Armored Cavalry (can transform into Architron Lightning Cavalry, Unbuildable)
+	UU: Architron Lightning Cavalry (can transform into Architron Armored Cavalry, Unbuildable)
+	UU: Architron Guardian Model (can transform into Architron Stoic Guardian and Architron Fierce Guardian)
+	UU: Architron Stoic Guardian (can transform into Architron Fierce Guardian, Unbuildable)
+	UU: Architron Fierce Guardian (can transform into Architron Stoic Guardian, Unbuildable)
+	UU: Helix Aircopter
+	UU: Roulette Tank
 	
+	Lavernian:
+	UU: Speeder Hover (needs Steam)
+	UU: Skychaser (bike sized flyer, early scout heli)
+	UU: Ornithopter (early combat heli)
+	UU: Aero-Explorer (scout blimp)
+	UU: Cannon Dirigible (arty)
+	UU: Royal Air-Carrier (carrier blimp)
+	
+	Krieger:
+	UU: Brunhild Gpz Mk I (needs Steam and Oil)
+	UU: Brunhild Gpz Mk II (needs Steam and Oil)
+	UU: Gunther Lpz Mk I (needs Steam)
+	UU: Gunther Lpz Mk II (needs Steam)
+	UU: Armored Scout Car
+	UU: Stormtrooper
+	
+	Albion:
+	UU: Royal Musketeer
+	UU: Mobile Cannon (needs Steam)
+	UU: Victoria Artillery (needs Steam)
+	UU: Steamboat (needs Steam)
+	UU: Steam Cruiser (needs Steam)
+	UU: Steam Battleship (needs Steam)
+	
+	Proletar:
+	UU: Mecha-Glove Brawler
+	UU: Driller (needs Steam)
+	UU: Tachanka Truck
+	UU: Makeshift Steamsuit (needs Steam)
+	UU: Hazard Steamsuit (needs Steam, immune to fallout and toxic waste)
+	
+	Wild Stallions:
+	UU: Air Rifleman
+	UU: Bounty Hunter
+	UU: Rough Rider
+	UU: Monowheel
+	UU: Steel Horseman (needs Steam)
+	UU: Steam Locomotive (needs Steam)
+	UU: Armored Locomotive (needs Steam)
+	UU: Steam Spider (needs Steam)
+	*/
 ]
