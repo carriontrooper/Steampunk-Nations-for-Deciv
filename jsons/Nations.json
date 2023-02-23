@@ -259,9 +259,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"favoredReligion": "Aetherist Church",
 		"uniqueName": "Winds of Exploration",
 		"uniques": [
-			"[+1] Movement <for [Dirigible] units>", //might turn this into a promotion
-			"[+1] Movement <for [Helicopter] units>", //might turn this into a promotion
-			"[+1] Sight <for [Scout] units>", //might turn this into a promotion
+			"[Dirigible] units gain the [Lavernian Navigation] promotion",
 			"[+10 Culture] whenever a Great Person is expended <during the [Decivilized era]>",
 			"[+50 Culture] whenever a Great Person is expended <during the [Rediscovering era]>",
 			"[+100 Culture] whenever a Great Person is expended <during the [Neofeudal era]>",
@@ -333,8 +331,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"favoredReligion": "Vorsprung Durch Technik",
 		"uniqueName": "Unrelenting Industry",
 		"uniques": [
-			"[+5]% Strength <when attacking> <when above [5] [Steam]>", //might turn this into a promotion
-			"[+10]% Strength <when attacking> <when above [20] [Steam]>", //might turn this into a promotion
+			"[Landship] units gain the [Krieger Engineering] promotion",
 			"[+20]% maintenance costs <when above [20] [Steam]>",
 			"[+10 Production] [In all cities] <when above [10] [Steam]>",
 			"Double quantity of [Weapons] produced <when above [10] [Steam]>",
@@ -402,7 +399,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"uniqueName": "Might of Albion",
 		"uniques": [
 			"Starts with [Monopoly] adopted",
-			"[+20]% Strength <during a Golden Age>", //might turn this into a promotion
+			"[Military] units gain the [Albion's Finest] promotion",
 			"[+20]% Gold from Great Merchant trade missions",
 			"Double quantity of [Slaves] produced <during a Golden Age>",
 		],
@@ -470,7 +467,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 			"Starts with [Collectivism] adopted",
 			"[-10]% tile improvement construction time",
 			"[+5 Production] <in cities with at least [5] [Population]>",
-			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>" //might turn this into a promotion
+			"[Personnel] units gain the [Revolutionary Fervor] promotion"
 		],
 		"cities": [
 			"Lomonosovsky Prospekt",
@@ -533,7 +530,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"favoredReligion": "Caliber Gospel",
 		"uniqueName": "Desperadoes",
 		"uniques": [
-			"Damage is ignored when determining unit Strength <when below [10] HP>", //might turn this into a promotion
+			"[Military] units gain the [Desperate Measures] promotion",
 			"Double quantity of [Horses] produced",
 			"Free [Bounty Hunter] appears <upon entering a Golden Age>",
 			"[+2 Gold] from each Trade Route"
