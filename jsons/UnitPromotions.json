@@ -1,3 +1,55 @@
 [
-	
+	{
+		"name": "Clockwork Automaton",
+		"uniques": [
+			"[+20]% Strength <vs [Low Tech] units>",
+			"[+20]% Strength <vs [Personnel] units>",
+			"[-100]% XP gained from combat"
+		],
+		"column": 7,
+		"row": 1
+	},
+	{
+		"name": "Lavernian Navigation",
+		"uniques": [
+			"[+1] Movement",
+			"[+1] Sight"
+		],
+		"column": 7,
+		"row": 2
+	},
+	{
+		"name": "Krieger Engineering",
+		"uniques": [
+			"[+5]% Strength <when attacking> <when above [5] [Steam]>",
+			"[+10]% Strength <when attacking> <when above [15] [Steam]>",
+			"[+10]% Strength <when attacking> <when above [25] [Steam]>"
+		],
+		"column": 7,
+		"row": 3
+	},
+	{
+		"name": "Albion's Finest",
+		"uniques": [
+			"[+20]% Strength <during a Golden Age>"
+		],
+		"column": 7,
+		"row": 4
+	},
+	{
+		"name": "Revolutionary Fervor",
+		"uniques": [
+			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>"
+		],
+		"column": 7,
+		"row": 5
+	},
+	{
+		"name": "Desperate Measures",
+		"uniques": [
+			"Damage is ignored when determining unit Strength <when below [10] HP>"
+		],
+		"column": 7,
+		"row": 6
+	}
 ]
