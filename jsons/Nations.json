@@ -259,7 +259,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"favoredReligion": "Aetherist Church",
 		"uniqueName": "Winds of Exploration",
 		"uniques": [
-			"[Dirigible] units gain the [Lavernian Navigation] promotion",
+			"[Skyfarer] units gain the [Lavernian Navigation] promotion",
 			"[+10 Culture] whenever a Great Person is expended <during the [Decivilized era]>",
 			"[+50 Culture] whenever a Great Person is expended <during the [Rediscovering era]>",
 			"[+100 Culture] whenever a Great Person is expended <during the [Neofeudal era]>",
