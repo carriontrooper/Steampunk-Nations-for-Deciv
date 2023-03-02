@@ -178,15 +178,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "It is time to test my inventions, so, ready your best and brightest!",
+		"attacked": "Interesting choice of action. My turn.",
+		"defeated": "The world is just not ready for my genius!",
+		"introduction": "Oh my, how interesting! I am Arcimboldo Vincenzo da Turin, Doge of the Vincian States. My inventions are second to none!",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Oho, I wonder what business brings you here.",
+		"hateHello": "This better be quick, looking at you for too long gives me headaches.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "May I interest you in an exchange of goods?.",
 
 		"outerColor": [179, 112, 20],
 		"innerColor": [217, 242, 255],
@@ -244,15 +244,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Sorry, mon ami - we need fuel for our further exploration.",
+		"attacked": "How could you? Treachery!",
+		"defeated": "Adieu! Our dream, once unified, now scattered away by the four winds....",
+		"introduction": "Bonjour! Lovely day to fly, won't you agree? I'm King Jasper La Verne, from the Laverne Aetherial Kingdom.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Bonne chance, mon ami! What wind blew you my way?",
+		"hateHello": "Oof, this dark cloud again! Are you trying to rain on my parade?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
 
 		"outerColor": [0, 117, 227],
 		"innerColor": [222, 156, 255],
@@ -316,15 +316,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Greetings. The kommandants have decided to annex you. I hope you understand.",
+		"attacked": "Greetings. You seem to have acquired a taste of our metal. Let our industry pay you back tenfold.",
+		"defeated": "Greetings. The forges are going cold. Goodbye.",
+		"introduction": "Greetings. Oberfabrikskommandant Konrad Junkers, of the Krieger Metalwerks, at your service.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Greetings. May I help you?",
+		"hateHello": "Greetings. Why are you here?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Greetings. We have surplus production. I hope you do, too.",
 
 		"outerColor": [85, 85, 85],
 		"innerColor": [126, 192, 253],
@@ -383,15 +383,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "My, your territories would look nice as one of our colonies.",
+		"attacked": "How rude of you! Jeeves, ready the army.",
+		"defeated": "It cannot be - the sun sets over Albion for the second time...",
+		"introduction": "Oh hello, hello! On behalf of the Grand Albion, I, Queen Victoria Balmoral, greet you. Fancy some tea?",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Hello, hello! What's the occasion?",
+		"hateHello": "Oh, it's you, all rude and savage.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you..",
 
 		"outerColor": [255, 84, 84],
 		"innerColor": [241, 199, 255],
@@ -449,15 +449,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "We have heard the call of the Revolution, and you are next in line!",
+		"attacked": "Workers of the world, unite! Counterattack this aggressor!",
+		"defeated": "The Revolution has been broken for now... but it shall return!",
+		"introduction": "By the Revolution, we are the Proletaria! I am the designated spokesman, Ilya Muromets.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Salut, comrade!",
+		"hateHello": "What do you subversives want?",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Let us work out a trade deal, comrade.",
 
 		"outerColor": [242, 165, 97],
 		"innerColor": [128, 79, 0],
@@ -515,15 +515,15 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startIntroPart1": ".",
 		"startIntroPart2": ".",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Reckon it's about high noon 'tween the two of us.",
+		"attacked": "That's the last straw from you, varmint.",
+		"defeated": "Looks like you were quicker on the draw.",
+		"introduction": "Howdy, stranger. Name's Bill Winchester, I run the Wild Stallions round here. If you ain't on our side, best git goin'.",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Howdy. How's life treatin' ya?",
+		"hateHello": "You got guts, showin' your face here.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
 		"outerColor": [255, 136, 0],
 		"innerColor": [48, 110, 0],
