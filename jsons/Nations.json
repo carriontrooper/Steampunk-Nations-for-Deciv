@@ -333,7 +333,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"uniques": [
 			"[Landship] units gain the [Krieger Engineering] promotion",
 			"[+20]% maintenance costs <when above [20] [Steam]>",
-			"[+10 Production] [In all cities] <when above [10] [Steam]>",
+			"[+10 Production] [in all cities] <when above [10] [Steam]>",
 			"Double quantity of [Weapons] produced <when above [10] [Steam]>",
 			"Starts with [Iron Working]"
 		],
