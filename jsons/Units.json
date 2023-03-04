@@ -220,7 +220,7 @@
 		"cost": 200,
 		"requiredTech": "Engineering",
 		"obsoleteTech": "Gyroscopes",
-		"upgradesTo": " Helicopter",
+		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[+2] Movement <in [Water] tiles>",
 			"[-25]% Strength <vs [Armor] units>",
