@@ -176,6 +176,63 @@
 	*/
 	
 	// non-unique steam producers
+	{
+		"name": "Coal Boiler",
+		"maintenance": 1,
+		"cost": 200,
+		"gold": -1,
+		"hurryCostModifier": 25,
+		//"percentStatBonus": { "food": -20 },
+		"uniques": [
+			"Provides [3] [Steam]",
+			"Consumes [1] [Coal]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Steam Power"
+	},
+	{
+		"name": "Oil-Fueled Boiler",
+		"maintenance": 2,
+		"cost": 225,
+		"gold": -2,
+		"hurryCostModifier": 25,
+		//"percentStatBonus": { "food": -20 },
+		"uniques": [
+			"Provides [8] [Steam]",
+			"Consumes [1] [Oil]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Chemistry"
+	},
+	{
+		"name": "Nuclear Boiler",
+		"maintenance": 4,
+		"cost": 400,
+		"gold": -3,
+		"hurryCostModifier": 25,
+		//"percentStatBonus": { "food": -20 },
+		"uniques": [
+			"Provides [20] [Steam]",
+			"Consumes [1] [Uranium]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Nuclear Fission"
+	},
+	{
+		"name": "Superheater",
+		"maintenance": 1,
+		"cost": 150,
+		"gold": -1,
+		"hurryCostModifier": 25,
+		//"percentStatBonus": { "food": -20 },
+		"uniques": [
+			"Provides [3] [Steam]",
+			"Consumes [1] [Steam]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Steam Power"
+	},
+	
 	/*
 	Coal Boiler (needs Coal, -1 gold)
 	Oil-fueled Boiler (needs Oil, -2 gold)
@@ -184,6 +241,69 @@
 	*/
 	
 	// non-unique steam consumers
+	{
+		"name": "Steam Generator",
+		"maintenance": 1,
+		"cost": 150,
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "production": 5 },
+		"uniques": [
+			"Provides [2] [Power]",
+			"Consumes [1] [Steam]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Steam Power"
+	},
+	{
+		"name": "Steam Turbine",
+		"maintenance": 2,
+		"cost": 200,
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "production": 10 },
+		"uniques": [
+			"Provides [5] [Power]",
+			"Consumes [2] [Steam]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Steam Power"
+	},
+	{
+		"name": "Soil Sterilization",
+		"maintenance": 1,
+		"cost": 200,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Consumes [3] [Steam]",
+			"[+2 Food] from [Farm] tiles [in this city]",
+			"Only available <in cities with a [Library]>"
+		],
+		"requiredTech": "Decontamination"
+	},
+	{
+		"name": "Household Steam Utilization",
+		"isNationalWonder": true,
+		"uniques": [
+			"[+2 Happiness, +2 Culture] [in this city] <with [Steam]>",
+			"Cost increases by [50] per owned city",
+			"Can only be built [in capital]",
+			"Consumes [7] [Steam]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Steam Power"
+	},
+	{
+		"name": "Petrochem Steam Reactant",
+		"maintenance": 1,
+		"cost": 200,
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "production": 10 },
+		"uniques": [
+			"Consumes [5] [Steam]",
+			"Only available <in cities with a [Oil Refinery]>"
+		],
+		"requiredTech": "Decontamination"
+	}
+	
 	/*
 	Steam Generator (gives Power)
 	Steam Turbine (gives more Power)
