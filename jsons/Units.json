@@ -1,5 +1,264 @@
 [
 	//unique units
+	//Vincian
+	{
+		"name": "Architron Infantry Model",
+		"unitType": "Civilian",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		//"strength": 50,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"No defensive terrain penalty",
+			"Can build [All Road] improvements on tiles",
+			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Infantry Melee]",
+			"Can transform to [Architron Infantry Ranged]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Infantry Melee",
+		"unitType": "Scrapper",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		"strength": 50,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Infantry Model]",
+			"Can transform to [Architron Infantry Ranged]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Infantry Ranged",
+		"unitType": "Shooter",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 45,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Infantry Model]",
+			"Can transform to [Architron Infantry Melee]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "shot"
+	},
+	
+	{
+		"name": "Architron Cavalry Model",
+		"unitType": "Civilian",
+		"uniqueTo": "Vincian States",
+		"movement": 3,
+		//"strength": 50,
+		"cost": 200,
+		"requiredTech": "Machinery",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"No defensive terrain penalty",
+			"[+1] Sight",
+			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Armored Cavalry]",
+			"Can transform to [Architron Lightning Cavalry]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Armored Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Vincian States",
+		"movement": 3,
+		"strength": 50,
+		"cost": 200,
+		"requiredTech": "Engineering",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			"[+20]% Strength <when defending>",
+			"[-1] Movement <in [Rough terrain] tiles>"
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Cavalry Model]",
+			"Can transform to [Architron Lightning Cavalry]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Lightning Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Vincian States",
+		"movement": 3,
+		"strength": 50,
+		"cost": 200,
+		"requiredTech": "Engineering",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			"[+20]% to Flank Attack bonuses",
+			"[+1] Movement <in [Open terrain] tiles>"
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Cavalry Model]",
+			"Can transform to [Architron Armored Cavalry]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	
+	{
+		"name": "Architron Guardian Model",
+		"unitType": "Civilian",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		//"strength": 50,
+		"cost": 300,
+		"requiredTech": "Steam Power",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"No defensive terrain penalty",
+			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Stoic Guardian]",
+			"Can transform to [Architron Fierce Guardian]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Stoic Guardian",
+		"unitType": "Armor",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		"strength": 80,
+		"cost": 300,
+		"requiredTech": "Steam Power",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			"[+20]% Strength <when defending>",
+			"[+10]% Strength bonus for [Military] units within [1] tiles",
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Guardian Model]",
+			"Can transform to [Architron Fierce Guardian]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Architron Fierce Guardian",
+		"unitType": "Armor",
+		"uniqueTo": "Vincian States",
+		"movement": 2,
+		"strength": 80,
+		"cost": 300,
+		"requiredTech": "Steam Power",
+		//"obsoleteTech": "Combined Arms",
+		"uniques": [
+		    "Personnel",
+			"Unbuildable",
+			"Cannot be purchased",
+			"No defensive terrain penalty",
+			"[+20]% Strength <when attacking>",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+			//"Only available <if [Clockwork Winding Station] is constructed>",
+			"Can transform to [Architron Guardian Model]",
+			"Can transform to [Architron Stoic Guardian]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	
+	{
+		"name": "Helix Aircopter",
+		"unitType": "Helicopter",
+		"uniqueTo": "Vincian States",
+		"range": 1,
+		"interceptRange": 1,
+		"movement": 5,
+		"strength": 36,
+		"rangedStrength": 40,
+		"cost": 200,
+		"requiredTech": "Engineering",
+		"obsoleteTech": "Gyroscopes",
+		"upgradesTo": " Helicopter",
+		"uniques": [
+			"[+2] Movement <in [Water] tiles>",
+			"[-25]% Strength <vs [Armor] units>",
+			"Can move after attacking",
+			"[-40]% Strength <vs cities> <when attacking>",
+			"May withdraw before melee ([75]%)",
+			"Only available <if [Clockwork Workshop] is constructed>",
+			//"Consumes [1] [Oil]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+	
+	{
+		"name": "Roulette Tank",
+		"unitType": "Armor",
+		"uniqueTo": "Vincian States",
+		"movement": 3,
+		"strength": 60,
+		"cost": 200,
+		"requiredTech": "Engineering",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": [
+			"Can move after attacking",
+			"[-50]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Only available <if [Clockwork Workshop] is constructed>",
+			"[+20]% Strength <vs [Low Tech] units>",
+			"[+20]% Strength <vs [Personnel] units>",
+			//"Consumes [1] [Oil]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+	},
+	
 	/*
 	Vincian:
 	UU: Architron Infantry Model (can transform into Architron Infantry Melee and Architron Infantry Ranged)
