@@ -129,6 +129,159 @@
 	},
 	
 	// unique buildings
+	// Vincian
+	{
+		"name": "Difference Engine",
+		"uniqueTo": "Vincian States",
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "science": 2 },
+		"uniques": [
+			"[+2 Science] [in this city] <with [Power]>",
+			"[+2 Science] per [3] population [in this city]",
+			"[+1 Science, +1 Production] from [Machine Parts] tiles [in this city]"
+		],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Clockwork Workshop",
+		"replaces": "Forge",
+		"uniqueTo": "Vincian States",
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"[+1 Science] [in this city] <with [Power]>",
+			"[+1 Production, +1 Science] from [Scrap] tiles [in this city]",
+			"[+1 Production, +1 Science] [in this city] <with [Machine Parts]>"
+		]
+	},
+	{
+		"name": "Clockwork Winding Station",
+		"uniqueTo": "Vincian States",
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Machinery",
+		"uniques": [
+			"Enables construction of [Clockwork Powered] units",
+			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Rediscovering era]>",
+			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Neofeudal era]>",
+			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Rebuilding era]>",
+			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Industrial era]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Engineers' Guild",
+		"replaces": "Congress",
+		"uniqueTo": "Vincian States",
+		"cost": 100,
+		"specialistSlots": { "Engineer": 3 },
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+10]% Production when constructing [All] buildings [in this city]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Inventors' Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Inventors' Council",
+		"replaces": "Council",
+		"uniqueTo": "Vincian States",
+		"cost": 50,
+		"specialistSlots": { "Scientist": 3 },
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture, +1 Science] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Engineers' Guild]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Archimedean Defenses",
+		"replaces": "Defensive Emplacements",
+		"uniqueTo": "Vincian States",
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+5]% maintenance cost for buildings [in this city]",
+			"Only available <in cities with a [Walls]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Machinery"
+	},
+	
+	// Lavernian
+	{
+		"name": "Dirigible Hangar",
+		"uniqueTo": "Laverne Aetherial Kingdom",
+		"percentStatBonus": { "production": -5 },
+		"production": -2,
+		"uniques": [
+			"New [Dirigible] units start with [15] Experience [in this city]",
+			"Only available <in cities with a [Factory]>",
+			"Consumes [2] [Steam]"
+		],
+		"requiredTech": "Steam Power"
+	},
+	{
+		"name": "Aetheric Engine Garage",
+		"uniqueTo": "Laverne Aetherial Kingdom",
+		"percentStatBonus": { "production": -5 },
+		"production": -2,
+		"uniques": [
+			"[+66]% Production when constructing [Aetheric Engine] units [in this city]",
+			"Only available <in cities with a [Factory]>",
+			"Consumes [2] [Steam]"
+		],
+		"requiredTech": "Gyroscopes"
+	},
+	{
+		"name": "Skycaptains' Tavern",
+		"replaces": "Town Hall",
+		"uniqueTo": "Laverne Aetherial Kingdom",
+		"specialistSlots": { "Merchant": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness, +1 Culture] [in this city] <with [Power]>",
+			"New [Air] units start with [15] Experience [in this city]",
+			"[+1 Culture, +1 Gold] from each Trade Route"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Flying Platform",
+		"uniqueTo": "Laverne Aetherial Kingdom",
+		"culture": 1,
+		"happiness": 1,
+		"specialistSlots": { "Administrator": 1 },
+		"percentStatBonus": { "culture": 10, "production": 10 },
+		"uniques": [
+			"[+10]% of excess happiness converted to [Culture]",
+			"[Air] Units adjacent to this city heal [+5] HP per turn when healing",
+			"Consumes [2] [Steam]"
+		],
+		// "maintenance": 3,
+		"requiredTech": "Radio"
+	},
+	
+	// Krieger
+	
+	// Albion
+	
+	// Proletaria
+	
+	// Wild Stallions
+	
 	/*
 	Vincian:
 	UB: Difference Engine
@@ -233,13 +386,6 @@
 		"requiredTech": "Steam Power"
 	},
 	
-	/*
-	Coal Boiler (needs Coal, -1 gold)
-	Oil-fueled Boiler (needs Oil, -2 gold)
-	Nuclear Boiler (needs Uranium, -3 gold)
-	Superheater (needs Steam, gives more Steam, -1 gold)
-	*/
-	
 	// non-unique steam consumers
 	{
 		"name": "Steam Generator",
@@ -303,12 +449,4 @@
 		],
 		"requiredTech": "Decontamination"
 	}
-	
-	/*
-	Steam Generator (gives Power)
-	Steam Turbine (gives more Power)
-	Soil Sterilization (+food on farms)
-	Household Steam Utilization (+happiness)
-	Petrochem Steam Reactant (needs Oil Plant, +production)
-	*/
 ]
