@@ -12,6 +12,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"Can build [All Road] improvements on tiles",
 			"Only available <if [Clockwork Winding Station] is constructed>",
@@ -33,6 +34,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
@@ -57,6 +59,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
@@ -80,6 +83,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"[+1] Sight",
 			"Only available <if [Clockwork Winding Station] is constructed>",
@@ -101,6 +105,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
@@ -125,6 +130,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
@@ -150,6 +156,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"Only available <if [Clockwork Winding Station] is constructed>",
 			"Can transform to [Architron Stoic Guardian]",
@@ -170,6 +177,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
@@ -194,6 +202,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
