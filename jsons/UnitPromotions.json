@@ -51,5 +51,13 @@
 		],
 		"column": 7,
 		"row": 6
+	},
+	{
+		"name": "Bounty Hunting",
+		"uniques": [
+			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills",
+		],
+		"column": 7,
+		"row": 7
 	}
 ]
