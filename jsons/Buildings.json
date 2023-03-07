@@ -236,7 +236,7 @@
 		"percentStatBonus": { "production": -5 },
 		"production": -2,
 		"uniques": [
-			"[+66]% Production when constructing [Aetheric Engine] units [in this city]",
+			"[+66]% Production when constructing [Skyfarer] units [in this city]",
 			"Only available <in cities with a [Factory]>",
 			"Consumes [2] [Steam]"
 		],
