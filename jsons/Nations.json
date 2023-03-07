@@ -254,8 +254,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
 
-		"outerColor": [0, 117, 227],
-		"innerColor": [222, 156, 255],
+		"outerColor": [0, 99, 192],
+		"innerColor": [226, 170, 255],
 		"favoredReligion": "Aetherist Church",
 		"uniqueName": "Winds of Exploration",
 		"uniques": [
@@ -393,8 +393,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you..",
 
-		"outerColor": [255, 84, 84],
-		"innerColor": [241, 199, 255],
+		"outerColor": [216, 71, 71],
+		"innerColor": [243, 207, 255],
 		"favoredReligion": "Golden Glory",
 		"uniqueName": "Might of Albion",
 		"uniques": [
@@ -525,8 +525,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
-		"outerColor": [255, 136, 0],
-		"innerColor": [48, 110, 0],
+		"outerColor": [255, 147,25],
+		"innerColor": [43, 99, 0],
 		"favoredReligion": "Caliber Gospel",
 		"uniqueName": "Desperadoes",
 		"uniques": [
