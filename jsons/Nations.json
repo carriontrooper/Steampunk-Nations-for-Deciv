@@ -307,7 +307,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 	},
 	
 	{
-		"name": "Krieger Metalworks",
+		"name": "Krieger Metalwerks",
 		"leaderName": "Konrad Junkers",
 		"adjective": ["Krieger"],
 		"startBias": ["Hill"],
