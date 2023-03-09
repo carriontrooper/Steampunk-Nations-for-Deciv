@@ -525,8 +525,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
-		"outerColor": [255, 147,25],
-		"innerColor": [43, 99, 0],
+		"outerColor": [43, 99, 0],
+		"innerColor": [250, 230, 210],
 		"favoredReligion": "Caliber Gospel",
 		"uniqueName": "Desperadoes",
 		"uniques": [
