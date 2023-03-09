@@ -189,7 +189,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"tradeRequest": "May I interest you in an exchange of goods?.",
 
 		"outerColor": [179, 112, 20],
-		"innerColor": [217, 242, 255],
+		"innerColor": [3, 84, 200],
 		"favoredReligion": "Savant Sainthood",
 		"uniqueName": "Clockwork Ingenuity",
 		"uniques": [
@@ -254,8 +254,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
 
-		"outerColor": [0, 99, 192],
-		"innerColor": [226, 170, 255],
+		"outerColor": [111, 220, 247],
+		"innerColor": [144, 47, 222],
 		"favoredReligion": "Aetherist Church",
 		"uniqueName": "Winds of Exploration",
 		"uniques": [
