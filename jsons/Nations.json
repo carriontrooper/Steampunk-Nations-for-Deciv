@@ -326,8 +326,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"tradeRequest": "Greetings. We have surplus production. I hope you do, too.",
 
-		"outerColor": [200, 5, 5],
-		"innerColor": [50, 30, 8],
+		"outerColor": [223, 134, 27],
+		"innerColor": [148, 28, 8],
 		"favoredReligion": "Vorsprung Durch Technik",
 		"uniqueName": "Unrelenting Industry",
 		"uniques": [
