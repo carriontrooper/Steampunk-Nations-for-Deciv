@@ -571,7 +571,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Stormrooper",
+		"name": "Stormtrooper",
 		"replaces": "Infantry",
 		"uniqueTo": "Krieger Metalwerks",
 		"unitType": "Scrapper",
