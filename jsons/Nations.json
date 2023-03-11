@@ -175,8 +175,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Scientific",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "'You know, when the world broke, it broke us into so many pieces. Alone, we were without purpose, lost like a spring unwound. Bleak were the days when survival was uncertain.'",
+		"startIntroPart2": "'But I saw the bigger blueprint. The pieces could work together in novel new ways. Each of us are like a component, fitting around each other like clockwork. So I went around, bringing my genius to solve this great puzzle together - and this societal mechanism that is the Vincian States was made. Let's fix the world next.'",
 
 		"declaringWar": "It is time to test my inventions, so, ready your best and brightest!",
 		"attacked": "Interesting choice of action. My turn.",
@@ -313,8 +313,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Hill"],
 		"preferredVictoryType":"Domination",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "'The apocalypse took almost everything from us. Our homes, our families, our hopes, our dreams. But look at us now.'",
+		"startIntroPart2": "'We persevered. We'll rebuild. We'll prosper. Through the might of our industry, we will prosper, and take back what is ours. Let those who dare to oppose our march forward be destroyed.'",
 
 		"declaringWar": "Greetings. The kommandants have decided to annex you. I hope you understand.",
 		"attacked": "Greetings. You seem to have acquired a taste of our metal. Let our industry pay you back tenfold.",
@@ -380,8 +380,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "'My loyal subjects! Dreadful news have come from outside. The world had descended into utter barbarity. Gangs of brigands and zealots terrorize the land, technology had regressed back to pre-industrial times, and mutated vermin roam free to prey on people. Truly, a despicable and torturous existence.'",
+		"startIntroPart2": "'We may be the last light of civilization left in the world, and as such, the burden of re-civilizing the globe falls upon us. Let it be known that Grand Albion will carry out its duty marvelously! Let us bring back the fires of civilization out into the wasteland wilderness! Glory be with us, Grand Albion!'",
 
 		"declaringWar": "My, your territories would look nice as one of our colonies.",
 		"attacked": "How rude of you! Jeeves, ready the army.",
@@ -446,8 +446,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Tundra"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "'Comrades, I'm sure that each and every one of us here had suffered from unjust and cruel masters. They called us many names: worker, blue-collar, laborer, servant, slave - as we toil away while they live in comfort. We have known oppression in its many forms, from the jackboot to the whip.'",
+		"startIntroPart2": "'I say, enough! It is time to rise, Comrades! Slough off the shackles of our masters, and join Proletaria! Where there are no masters above us and we stand on our own feet, not on others' shoulders! We will survive together, by the Revolution!'",
 
 		"declaringWar": "We have heard the call of the Revolution, and you are next in line!",
 		"attacked": "Workers of the world, unite! Counterattack this aggressor!",
