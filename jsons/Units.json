@@ -83,6 +83,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+		    "Mounted",
 			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"[+1] Sight",
@@ -96,7 +97,7 @@
 	},
 	{
 		"name": "Architron Armored Cavalry",
-		"unitType": "Mounted",
+		"unitType": "Scrapper",
 		"uniqueTo": "Vincian States",
 		"movement": 3,
 		"strength": 50,
@@ -105,6 +106,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+		    "Mounted",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
@@ -121,7 +123,7 @@
 	},
 	{
 		"name": "Architron Lightning Cavalry",
-		"unitType": "Mounted",
+		"unitType": "Scrapper",
 		"uniqueTo": "Vincian States",
 		"movement": 3,
 		"strength": 50,
@@ -130,6 +132,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+		    "Mounted",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
