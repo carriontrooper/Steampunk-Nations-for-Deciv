@@ -29,12 +29,20 @@
 		"row": 3
 	},
 	{
+		"name": "Blooded",
+		"uniques": [
+			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"
+		],
+		"column": 7,
+		"row": 4
+	},
+	{
 		"name": "Albion's Finest",
 		"uniques": [
 			"[+20]% Strength <during a Golden Age>"
 		],
 		"column": 7,
-		"row": 4
+		"row": 5
 	},
 	{
 		"name": "Revolutionary Fervor",
@@ -42,7 +50,7 @@
 			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>"
 		],
 		"column": 7,
-		"row": 5
+		"row": 6
 	},
 	{
 		"name": "Desperate Measures",
@@ -50,7 +58,7 @@
 			"Damage is ignored when determining unit Strength <when below [10] HP>"
 		],
 		"column": 7,
-		"row": 6
+		"row": 7
 	},
 	{
 		"name": "Bounty Hunting",
@@ -58,6 +66,6 @@
 			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills",
 		],
 		"column": 7,
-		"row": 7
+		"row": 8
 	}
 ]
