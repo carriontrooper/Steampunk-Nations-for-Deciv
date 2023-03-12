@@ -47,7 +47,9 @@
 	{
 		"name": "Revolutionary Fervor",
 		"uniques": [
-			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>"
+			"Revolutionary Fervor",
+			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"[+10]% Strength <when adjacent to a [Revolutionary Fervor] unit>"
 		],
 		"column": 7,
 		"row": 6
