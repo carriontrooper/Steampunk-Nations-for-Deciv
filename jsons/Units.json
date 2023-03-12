@@ -598,6 +598,262 @@
 		"attackSound": "machinegun"
 	},
 	
+	//Albion
+	{
+		"name": "Royal Musketeer",
+		"replaces": "Rifleman",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Shooter",
+		"range": 1,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 35,
+		"interceptRange": 1,
+		"cost": 130,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Marksman",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Transfer Movement to [Civilian]"
+		],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mobile Cannon",
+		"replaces": "Cannon",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 20,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Victoria Artillery",
+		"obsoleteTech": "Munitions",
+		"uniques": [
+			"[+20]% Strength <vs [Low Tech] units>",
+			"[+100]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			//"Must set up to ranged attack",
+			"[-1] Sight",
+			"Only available <if [Blast Furnace] is constructed>",
+			"Consumes [1] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Victoria Artillery",
+		"replaces": "Artillery",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Siege",
+		"range": 4,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 40,
+		"cost": 200,
+		"requiredTech": "Munitions",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": [
+			"[+100]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[-50]% Strength <vs [Helicopter] units>",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [2] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Artillery"],
+		"hurryCostModifier": 20,
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Steam Boat",
+		"replaces": "Attack Boat",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 45,
+		"cost": 100,
+		"requiredTech": "Steam Power",
+		"obsoleteTech": "Plastics",
+		"upgradesTo": "Steam Cruiser",
+		"uniques": [
+			"Consumes [1] [Steam]",
+			"Double movement in [Coast]",
+			"May withdraw before melee ([33]%)",
+			"Only available <if [Factory] is constructed>",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Steam Cruiser",
+		"replaces": "Destroyer",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Ranged Water",
+		"movement": 6,
+		"strength": 40,
+		"rangedStrength": 55,
+		"range": 2,
+		"interceptRange": 2,
+		"cost": 200,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Steam Battleship",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"[50]% chance to intercept air attacks",
+			"[+50]% Strength <vs [Air] units>",
+			"[+33]% Strength <vs [Submarine] units>",
+			"[+50]% Strength <vs [Helicopter] units>",
+			"[+10]% Strength <vs [Water] units>",
+			"May withdraw before melee ([33]%)",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [2] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Steam Battleship",
+		"replaces": "Battleship",
+		"uniqueTo": "Grand Albion",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 45,
+		"rangedStrength": 65,
+		"range": 3,
+		"interceptRange": 3,
+		"cost": 400,
+		"requiredTech": "Ballistics",
+		"uniques": [
+			"[+25]% Strength <vs cities>",
+			"[+10]% Strength <vs [Land] units>",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [3] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Artillery"],
+		"hurryCostModifier": 20,
+		"attackSound": "shipguns"
+	},
+	
+	//Proletaria
+	{
+		"name": "Mecha-Glove Brawler",
+		"replaces": "Militia",
+		"uniqueTo": "Proletaria",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 36,
+		"cost": 50,
+		"upgradesTo": "Soldier",
+		"hurryCostModifier": 20,
+		"requiredTech": "Machinery",
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Personnel",
+			"Can build [Land] improvements on tiles",
+			"[+50]% Strength <vs [Mounted] units>"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Driller Tank",
+		"replaces": "Tank",
+		"uniqueTo": "Proletaria",
+		"unitType": "Armor",
+		"movement": 4,
+		"strength": 40,
+		"cost": 185,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[-25]% Strength <vs cities> <when defending>",
+			"Invisible to non-adjacent units"
+			"Only available <if [Communal Factory] is constructed>",
+			"Consumes [1] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Tachanka Truck",
+		"replaces": "Technical",
+		"uniqueTo": "Proletaria",
+		"unitType": "Siege",
+		"range": 1,
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 40,
+		"cost": 150,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Missile Vehicle",
+		"obsoleteTech": "Lasers",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+10]% Strength <vs [Low Tech] units>",
+			"[-50]% Strength <vs [Armor] units>",
+			"[-50]% Strength <vs cities> <when attacking>",
+			"May withdraw before melee ([50]%)",
+			"Consumes [1] [Oil]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Makeshift Steamsuit",
+		"uniqueTo": "Proletaria",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 45,
+		"interceptRange": 1,
+		"cost": 150,
+		"upgradesTo": "Hazard Steamsuit",
+		"hurryCostModifier": 20,
+		"requiredTech": "Steam Power",
+		"uniques": [
+			"Personnel",
+			"[+10]% Strength <when defending>",
+			"[+10]% Strength <vs [Low Tech] units> <when defending>",
+			"Consumes [1] [Steam]",
+			"Consumes [1] [Weapons]"
+		],
+		//"promotions": ["Gas Mask"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Hazard Steamsuit",
+		"uniqueTo": "Proletaria",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 47,
+		"interceptRange": 1,
+		"cost": 240,
+		"upgradesTo": "Exo-Trooper",
+		"hurryCostModifier": 20,
+		"requiredTech": "Plastics",
+		"uniques": [
+			"Personnel",
+			"[+10]% Strength <when defending>",
+			"[+10]% Strength <vs [Low Tech] units> <when defending>",
+			"Consumes [1] [Steam]",
+			"Consumes [1] [Weapons]"
+		],
+		"promotions": ["Gas Mask"],
+		"attackSound": "machinegun"
+	},
+	
+	//Wild Stallions
+	
 	/*
 	Vincian:
 	UU: Architron Infantry Model (can transform into Architron Infantry Melee and Architron Infantry Ranged)
