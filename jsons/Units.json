@@ -615,7 +615,8 @@
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Personnel",
-			"Transfer Movement to [Civilian]"
+			"Transfer Movement to [Civilian]",
+			"Consumes [1] [Weapons]"
 		],
 		"attackSound": "shot"
 	},
@@ -853,6 +854,172 @@
 	},
 	
 	//Wild Stallions
+	{
+		"name": "Bounty Hunter",
+		"replaces": "Militia",
+		"uniqueTo": "Wild Stallions",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 38,
+		"interceptRange": 1,
+		"cost": 55,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Soldier",
+		"uniques": [
+			"Personnel",
+			"This Unit gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
+			"Consumes [1] [Weapons]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Rough Rider",
+		"replaces": "Hussar",
+		"uniqueTo": "Wild Stallions",
+		"unitType": "Scrapper",
+		"movement": 4,
+		"strength": 39,
+		"interceptRange": 1,
+		"cost": 75,
+		"requiredTech": "Redomestication",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Cavalry",
+		"uniques": [
+			"Personnel",
+			"Mounted",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"This Unit gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <in cities with a [Stable]>",
+			"Consumes [1] [Weapons]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Monowheel",
+		"unitType": "Scrapper",
+		"uniqueTo": "Wild Stallions",
+		"replaces": "Scout",
+		"movement": 5,
+		"strength": 22,
+		"interceptRange": 1,
+		"cost": 55,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Armored Car",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": [
+			"Personnel",
+			"Mounted",
+			"[+1] Movement <in [Open terrain] tiles>",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"[-25]% Strength <vs cities>",
+			"No defensive terrain bonus",
+			"Can move after attacking"
+		],
+		"promotions": ["Forage", "Skirmish"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Steel Horseman",
+		"unitType": "Scrapper",
+		"uniqueTo": "Wild Stallions",
+		"movement": 5,
+		"strength": 35,
+		"interceptRange": 1,
+		"cost": 70,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Armored Car",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": [
+			"Personnel",
+			"Mounted",
+			"[+10]% Strength <vs [Personnel] units>",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"[-25]% Strength <vs cities>",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"Consumes [1] [Steam]"
+		],
+		"promotions": ["Forage", "Raider", "Skirmish", "March"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Steam Locomotive",
+		"replaces": "Tank",
+		"uniqueTo": "Wild Stallions",
+		"unitType": "Armor",
+		"movement": 4,
+		"range": 1,
+		"strength": 55,
+		"rangedStrength": 40,
+		"cost": 225,
+		"requiredTech": "Steam Power",
+		"upgradesTo": "Armored Locomotive",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[+2] Movement <in [Railroad] tiles>",
+			"[-25]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Only available <if [Trainyard] is constructed>",
+			"Consumes [1] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Armored Locomotive",
+		"uniqueTo": "Wild Stallions",
+		"unitType": "Armor",
+		"movement": 4,
+		"range": 1,
+		"strength": 65,
+		"rangedStrength": 65,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[+2] Movement <in [Railroad] tiles>",
+			"[+25]% Strength <when defending>",
+			"No defensive terrain bonus",
+			"Only available <if [Trainyard] is constructed>",
+			"Consumes [2] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Steam Spider",
+		"uniqueTo": "Wild Stallions",
+		"unitType": "Armor",
+		"movement": 3,
+		"strength": 70,
+		"cost": 300,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[+25]% Strength <vs [Armor] units> <when attacking>",
+			"No defensive terrain bonus",
+			"Ignores terrain cost",
+			"Only available <if [Armor Production Line] is constructed>",
+			"Consumes [2] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	}
 	
 	/*
 	Vincian:
@@ -900,7 +1067,6 @@
 	UU: Hazard Steamsuit (needs Steam, immune to fallout and toxic waste)
 	
 	Wild Stallions:
-	UU: Air Rifleman
 	UU: Bounty Hunter
 	UU: Rough Rider
 	UU: Monowheel
