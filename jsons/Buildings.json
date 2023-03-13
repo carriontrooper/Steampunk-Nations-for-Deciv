@@ -72,7 +72,7 @@
 		"culture": 1,
 		"cost": 1,
 		"uniques": [
-			//"Provides [2] [Steam]",
+			"Provides [3] [Weapons]",
 			"[3] free [Royal Musketeer] units appear",
 			"Can only be built [in capital]",
 			"Gain a free [Royal Garden] [in this city]"
@@ -115,7 +115,7 @@
 		"culture": 1,
 		"cost": 1,
 		"uniques": [
-			//"Provides [2] [Steam]",
+			"Provides [1] [Weapons]",
 			"[1] free [Bounty Hunter] units appear",
 			"Can only be built [in capital]",
 			"Gain a free [Bounty Board] [in this city]"
