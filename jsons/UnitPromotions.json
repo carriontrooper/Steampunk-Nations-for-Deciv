@@ -65,9 +65,18 @@
 	{
 		"name": "Bounty Hunting",
 		"uniques": [
-			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills",
+			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills"
 		],
 		"column": 7,
 		"row": 8
+	},
+	{
+		"name": "Seasoned Killer",
+		"uniques": [
+			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles",
+			"[+10]% Strength <vs [Personnel] units>"
+		],
+		"column": 7,
+		"row": 9
 	}
 ]
