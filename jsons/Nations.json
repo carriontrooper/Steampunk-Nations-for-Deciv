@@ -240,8 +240,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Wasteland"],
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "I remember those dark, sunless days when we were stuck in our shelters. I'd thought we would never see the surface again, and our children would never know the feeling of wind on their cheeks. Then, when it's finally safe to go out, what greeted us was a desolate, ruined wasteland... and the skies. Just a glimpse of the bluest blue was all that it needed for us to survive. L'azur ciel!",
+		"startIntroPart2": "That is right, mon ami - within that speck of blue we saw our dreams rising up once again. Our thirst for exploration, and a desire to be better than our past selves. So let the others squabble over these ruined land, for we take to the skies! After all, the sky is the limit!",
 
 		"declaringWar": "Sorry, mon ami - we need fuel for our further exploration.",
 		"attacked": "How could you? Treachery!",
@@ -511,8 +511,8 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"startBias": ["Badlands"],
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "Y'all might wonder how the Wild Stallions got its name. Well, long time ago, there was a bar of that name, full o' rough and rowdy folks with camaraderie in their hearts. Then the calamity came and them folks scattered to the four winds. But, you know how us 'salt of the earth'-types, we got back like cockroaches.",
+		"startIntroPart2": "So, there we were, years later. Some of us were the original bastards who survived. Some others have only heard of the place and the legends. Yet some others stumbled upon us, guided by fate. By that time, the old bar was long gone, but the spirit still lives on within us all. And now, folks call us many names. Couriers, Rail-chasers, Desperadoes, Bounty hunters... but Wild Stallions still fit us best - we're unpredictable, and we're free!",
 
 		"declaringWar": "Reckon it's about high noon 'tween the two of us.",
 		"attacked": "That's the last straw from you, varmint.",
