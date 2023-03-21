@@ -460,7 +460,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 		"outerColor": [242, 165, 97],
 		"innerColor": [128, 79, 0],
-		"favoredReligion": "Luddism",
+		"favoredReligion": "Perpetual Revolution",
 		"uniqueName": "Workers' Union",
 		"uniques": [
 			"Starts with [Collectivism] adopted",
