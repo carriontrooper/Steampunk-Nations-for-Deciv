@@ -274,7 +274,7 @@
 	//Lavernian
 	{
 		"name": "Speeder Hover",
-		"unitType": "Scrapper",
+		"unitType": "Scout",
 		"uniqueTo": "Laverne Aetherial Kingdom",
 		"movement": 5,
 		"strength": 20,
