@@ -382,6 +382,13 @@
 			"[+1 Food] from [Tubers] tiles [in this city]",
 			"[+1 Food] from [Grain] tiles [in this city]",
 			"[+1 Food] from [Farm] tiles [in this city]",
+			"[+1 Food] from [Terrace Farm] tiles [in this city]",
+			"[+1 Food] from [Factory Farm] tiles [in this city]",
+			"[+1 Food] from [Energy Farm] tiles [in this city]",
+			"[+1 Food] from [Prison Farm] tiles [in this city]",
+			"[+1 Food] from [Narcotics Farm] tiles [in this city]",
+			"[+1 Food] from [Tree Plantation] tiles [in this city]",
+			"[+1 Food] from [Bioculture] tiles [in this city]",
 			"Consumes [1] [Steam]"
 		],
 		"maintenance": 1,
@@ -822,6 +829,7 @@
 		"uniques": [
 			"Consumes [3] [Steam]",
 			"[+2 Food] from [Farm] tiles [in this city]",
+			"[+2 Food] from [Bioculture] tiles [in this city]",
 			"Only available <in cities with a [Library]>"
 		],
 		"requiredTech": "Decontamination"
