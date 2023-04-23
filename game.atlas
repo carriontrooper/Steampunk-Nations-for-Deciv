@@ -6,42 +6,42 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Grand Albion
   rotate: false
-  xy: 544, 220
+  xy: 544, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Krieger Metalwerks
   rotate: false
-  xy: 544, 112
+  xy: 760, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Laverne Aetherial Kingdom
   rotate: false
-  xy: 652, 220
+  xy: 868, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Proletaria
   rotate: false
-  xy: 760, 220
+  xy: 976, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Vincian States
   rotate: false
-  xy: 976, 220
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Wild Stallions
   rotate: false
-  xy: 868, 4
+  xy: 1192, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -55,42 +55,42 @@ ReligionIcons/Aetherist Church
   index: -1
 ReligionIcons/Caliber Gospel
   rotate: false
-  xy: 328, 112
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Golden Glory
   rotate: false
-  xy: 436, 112
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Perpetual Revolution
   rotate: false
-  xy: 652, 112
+  xy: 868, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Savant Sainthood
   rotate: false
-  xy: 760, 112
+  xy: 976, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Vorsprung Durch Technik
   rotate: false
-  xy: 1084, 328
+  xy: 1084, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Steam
   rotate: false
-  xy: 868, 112
+  xy: 1084, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -172,44 +172,86 @@ UnitIcons/Architron Stoic Guardian
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cannon Dirigible
+UnitIcons/Armored Scout Car
+  rotate: false
+  xy: 436, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Brunhild Gpz Mk I
   rotate: false
   xy: 436, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Helix Aircopter
+UnitIcons/Brunhild Gpz Mk II
   rotate: false
-  xy: 652, 328
+  xy: 544, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ornithopter
+UnitIcons/Cannon Dirigible
+  rotate: false
+  xy: 436, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gunther Lpz Mk I
+  rotate: false
+  xy: 652, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gunther Lpz Mk II
+  rotate: false
+  xy: 760, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Helix Aircopter
   rotate: false
   xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Ornithopter
+  rotate: false
+  xy: 760, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Roulette Tank
   rotate: false
-  xy: 652, 4
+  xy: 868, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Skychaser
   rotate: false
-  xy: 976, 328
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Speeder Hover
   rotate: false
-  xy: 760, 4
+  xy: 976, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stormtrooper
+  rotate: false
+  xy: 1192, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -223,56 +265,56 @@ UnitPromotionIcons/Albion's Finest
   index: -1
 UnitPromotionIcons/Blooded
   rotate: false
-  xy: 436, 328
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bounty Hunting
   rotate: false
-  xy: 220, 4
+  xy: 328, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Clockwork Automaton
   rotate: false
-  xy: 544, 328
+  xy: 544, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Desperate Measures
   rotate: false
-  xy: 328, 4
+  xy: 652, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Krieger Engineering
   rotate: false
-  xy: 436, 4
+  xy: 652, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lavernian Navigation
   rotate: false
-  xy: 760, 328
+  xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Revolutionary Fervor
   rotate: false
-  xy: 868, 328
+  xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Seasoned Killer
   rotate: false
-  xy: 868, 220
+  xy: 1084, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
