@@ -15,7 +15,7 @@
 			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"Can build [All Road] improvements on tiles",
-			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Infantry Melee]",
 			"Can transform to [Architron Infantry Ranged]",
 			"Never appears as a Barbarian unit"
@@ -38,7 +38,7 @@
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Infantry Model]",
 			"Can transform to [Architron Infantry Ranged]",
 			"Never appears as a Barbarian unit"
@@ -63,7 +63,7 @@
 			"Unbuildable",
 			"Cannot be purchased",
 			"No defensive terrain penalty",
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Infantry Model]",
 			"Can transform to [Architron Infantry Melee]",
 			"Never appears as a Barbarian unit"
@@ -87,7 +87,7 @@
 			"Clockwork Powered",
 			"No defensive terrain penalty",
 			"[+1] Sight",
-			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Armored Cavalry]",
 			"Can transform to [Architron Lightning Cavalry]",
 			"Never appears as a Barbarian unit"
@@ -113,7 +113,7 @@
 			"No defensive terrain penalty",
 			"[+20]% Strength <when defending>",
 			"[-1] Movement <in [Rough terrain] tiles>"
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Cavalry Model]",
 			"Can transform to [Architron Lightning Cavalry]",
 			"Never appears as a Barbarian unit"
@@ -139,7 +139,7 @@
 			"No defensive terrain penalty",
 			"[+20]% to Flank Attack bonuses",
 			"[+1] Movement <in [Open terrain] tiles>"
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Cavalry Model]",
 			"Can transform to [Architron Armored Cavalry]",
 			"Never appears as a Barbarian unit"
@@ -161,7 +161,7 @@
 		    "Personnel",
 			"Clockwork Powered",
 			"No defensive terrain penalty",
-			"Only available <if [Clockwork Winding Station] is constructed>",
+			"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Stoic Guardian]",
 			"Can transform to [Architron Fierce Guardian]",
 			"Never appears as a Barbarian unit"
@@ -186,7 +186,7 @@
 			"No defensive terrain penalty",
 			"[+20]% Strength <when defending>",
 			"[+10]% Strength bonus for [Military] units within [1] tiles",
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Guardian Model]",
 			"Can transform to [Architron Fierce Guardian]",
 			"Never appears as a Barbarian unit"
@@ -211,7 +211,7 @@
 			"No defensive terrain penalty",
 			"[+20]% Strength <when attacking>",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
-			//"Only available <if [Clockwork Winding Station] is constructed>",
+			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Guardian Model]",
 			"Can transform to [Architron Stoic Guardian]",
 			"Never appears as a Barbarian unit"
