@@ -156,7 +156,7 @@
 		]
 	},
 	{
-		"name": "Clockwork Winding Station",
+		"name": "Wind-Up Station",
 		"uniqueTo": "Vincian States",
 		"production": 1,
 		"hurryCostModifier": 25,
