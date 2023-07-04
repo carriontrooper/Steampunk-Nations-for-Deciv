@@ -6,7 +6,7 @@
 			"[+20]% Strength <when defending> <vs [Personnel] units>",
 			"[-100]% XP gained from combat"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 1
 	},
 	{
@@ -15,7 +15,7 @@
 			"[+1] Movement",
 			"[+1] Sight"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 2
 	},
 	{
@@ -25,7 +25,7 @@
 			"[+10]% Strength <when attacking> <when above [15] [Steam]>",
 			"[+10]% Strength <when attacking> <when above [25] [Steam]>"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 3
 	},
 	{
@@ -33,7 +33,7 @@
 		"uniques": [
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 4
 	},
 	{
@@ -41,7 +41,7 @@
 		"uniques": [
 			"[+20]% Strength <during a Golden Age>"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 5
 	},
 	{
@@ -51,7 +51,7 @@
 			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>",
 			"[+10]% Strength <when adjacent to a [Revolutionary Fervor] unit>"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 6
 	},
 	{
@@ -59,7 +59,7 @@
 		"uniques": [
 			"Damage is ignored when determining unit Strength <when below [10] HP>"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 7
 	},
 	{
@@ -67,7 +67,7 @@
 		"uniques": [
 			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 8
 	},
 	{
@@ -76,7 +76,7 @@
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles",
 			"[+10]% Strength <vs [Personnel] units>"
 		],
-		"column": 7,
+		"column": 11,
 		"row": 9
 	}
 ]
