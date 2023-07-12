@@ -47,7 +47,7 @@
 	{
 		"name": "Central Factory",
 		"isWonder": true,
-		"uniqueTo": "Krieger Metalworks",
+		"uniqueTo": "Krieger Metalwerks",
 		"production": 3,
 		"cost": 1,
 		"uniques": [
