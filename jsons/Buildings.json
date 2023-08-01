@@ -163,10 +163,15 @@
 		"requiredTech": "Machinery",
 		"uniques": [
 			"Enables construction of [Clockwork Powered] units",
+			"[Clockwork Powered] Units adjacent to this city heal [+5] HP per turn when healing",
+
+			"[+5]% Strength <for units with [Clockwork Powered]> <within [2] tiles of a [City center]>",
+			/*
 			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Rediscovering era]>",
 			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Neofeudal era]>",
 			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Rebuilding era]>",
 			"New [Clockwork Powered] units start with [15] Experience [in this city] <starting from the [Industrial era]>",
+			*/
 			"Destroyed when the city is captured"
 		]
 	},
