@@ -13,10 +13,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Clockwork Workshop] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'Here in Arcimboldo Vincenzo da Turin's expanded workshop, inventors, scientists, and engineers exchange ideas and turn them into problem-solving machines. We can fix the future!'",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Arcimboldo started his workshop from a garage, and turned it into an entire complex dedicated to clockwork mechanical marvels."
 			}
 		]
 	},
@@ -36,10 +36,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Dirigible Hangar] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'Do you crave adventure? Do you hear the call of exploration? Become a Skycaptain! Sign up for the aerial corps, today!'",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Based on a rebuilt airfield, the Aetherodrome is home to myriad airships - along with its crew and support personnel."
 			}
 		]
 	},
@@ -56,10 +56,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Metalworks] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'Through perspiration, aspiration.' - chief motto of the Krieger's Central Factory",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "A massive complex of industry, it has since been reclaimed and its foundries are stoked again."
 			}
 		]
 	},
@@ -77,10 +77,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Royal Garden] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'The regent must have their own abode, of the highest quality available - so that their glory might still be preserved.'",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "This hotel had survived the apocalypse relatively unscathed, and thus repurposed into a fitting palace."
 			}
 		]
 	},
@@ -98,10 +98,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Monument] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'Workers of the world, unite!' - the only plaque on the monument.",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "Despite its makeshift composition, this particular monument lights a fervor in the hearts who saw it.."
 			}
 		]
 	},
@@ -120,10 +120,10 @@
 			"Can only be built [in capital]",
 			"Gain a free [Bounty Board] [in this city]"
 		],
-		"quote": "'.'",
+		"quote": "'Y'all best sit down and enjoy the sarsaparilla, or the Bartender's gonna haveta whip out his shotgun. And I mean it!'",
 		"civilopediaText": [
 			{
-				"text": "."
+				"text": "This legendary saloon had been rebuilt, quickly becoming a gathering place of bounty hunters and the like."
 			}
 		]
 	},
