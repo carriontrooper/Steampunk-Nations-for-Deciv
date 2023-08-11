@@ -569,7 +569,7 @@
 		]
 	},
 	{
-		"name": "Revolutionary Council",
+		"name": "Revolutionary Conclave",
 		"replaces": "Council",
 		"uniqueTo": "Proletaria",
 		"cost": 50,
