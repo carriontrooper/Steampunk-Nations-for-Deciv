@@ -65,7 +65,7 @@
 	{
 		"name": "Bounty Hunting",
 		"uniques": [
-			"Earn [50]% of [military] opponent's [Strength] as [Gold] for kills"
+			"Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
 		],
 		"column": 11,
 		"row": 8
