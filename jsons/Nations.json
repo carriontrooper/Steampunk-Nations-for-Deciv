@@ -530,7 +530,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"uniqueName": "Desperadoes",
 		"uniques": [
 			"[Military] units gain the [Desperate Measures] promotion",
-			"Double quantity of [Horses] produced",
+			"[+10]% Strength <for [{Mounted} {Military}] units>",
 			"Free [Bounty Hunter] appears <upon entering a Golden Age>",
 			"[+2 Gold] from each Trade Route"
 		],
