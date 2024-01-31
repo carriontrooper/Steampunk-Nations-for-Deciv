@@ -464,7 +464,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"uniqueName": "Workers' Union",
 		"uniques": [
 			"Starts with [Collectivism] adopted",
-			"[-10]% tile improvement construction time",
+			"[-10]% construction time for [All] improvements",
 			"[+5 Production] <in cities with at least [5] [Population]>",
 			"[Personnel] units gain the [Revolutionary Fervor] promotion"
 		],
