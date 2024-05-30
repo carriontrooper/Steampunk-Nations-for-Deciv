@@ -564,7 +564,7 @@
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Revolutionary Council]>",
+			"Only available <in cities without a [Revolutionary Conclave]>",
 			"Destroyed when the city is captured"
 		]
 	},
