@@ -578,7 +578,7 @@
 			"[+10]% growth [in all cities]",
 			"New [Personnel] units start with [15] Experience [in this city]",
 			"[+10]% Production when constructing [Military] units [in this city]",
-			"[+50]% Strength <for [Personnel] units> <when fighting units from a Civilization with more Cities than you>"
+			"[+50]% Strength <for [Personnel] units> <when fighting units from a Civilization with more Cities than you>",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Workers' Union]>",
@@ -663,7 +663,7 @@
 			"All newly-trained [Personnel] units [in this city] receive the [Reconnaissance I] promotion",
 			"[+5]% Production when constructing [All] buildings [in this city]",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Tracklayers' Guild]>",
 			"Destroyed when the city is captured"
 		]
