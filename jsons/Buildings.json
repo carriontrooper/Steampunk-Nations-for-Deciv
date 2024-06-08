@@ -190,7 +190,7 @@
 			"[+10]% growth [in all cities]",
 			"[+10]% Production when constructing [All] buildings [in this city]",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Inventors' Council]>",
 			"Destroyed when the city is captured"
 		]
@@ -206,7 +206,7 @@
 			"[+1 Culture, +1 Science] per [4] population [in all cities]",
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Engineers' Guild]>",
 			"Destroyed when the city is captured"
 		]
@@ -563,7 +563,7 @@
 			"[+5]% Production when constructing [All] buildings [in this city]",
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Revolutionary Conclave]>",
 			"Destroyed when the city is captured"
 		]
@@ -580,7 +580,7 @@
 			"[+10]% Production when constructing [Military] units [in this city]",
 			"[+50]% Strength <for [Personnel] units> <when fighting units from a Civilization with more Cities than you>"
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Workers' Union]>",
 			"Destroyed when the city is captured"
 		]
@@ -646,7 +646,7 @@
 			"[+1 Culture] from [Railroad] tiles [in this city]",
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Couriers' Guild]>",
 			"Destroyed when the city is captured"
 		]
