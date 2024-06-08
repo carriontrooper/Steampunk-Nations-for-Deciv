@@ -10,7 +10,7 @@
 		"uniques": [
 			//"Provides [1] [Power]",
 			"[2] free [Architron Infantry Model] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Clockwork Workshop] [in this city]"
 		],
 		"quote": "'Here in Arcimboldo Vincenzo da Turin's expanded workshop, inventors, scientists, and engineers exchange ideas and turn them into problem-solving machines. We can fix the future!'",
@@ -33,7 +33,7 @@
 			"Provides [4] [Steam]",
 			"[1] free [Speeder Hover] units appear",
 			"[1] free [Ornithopter] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Dirigible Hangar] [in this city]"
 		],
 		"quote": "'Do you crave adventure? Do you hear the call of exploration? Become a Skycaptain! Sign up for the aerial corps, today!'",
@@ -53,7 +53,7 @@
 		"uniques": [
 			"Provides [2] [Steam]",
 			"[1] free [Gunther Lpz Mk I] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Metalworks] [in this city]"
 		],
 		"quote": "'Through perspiration, aspiration.' - chief motto of the Krieger's Central Factory",
@@ -74,7 +74,7 @@
 		"uniques": [
 			"Provides [3] [Weapons]",
 			"[3] free [Royal Musketeer] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Royal Garden] [in this city]"
 		],
 		"quote": "'The regent must have their own abode, of the highest quality available - so that their glory might still be preserved.'",
@@ -95,7 +95,7 @@
 		"uniques": [
 			//"Provides [2] [Steam]",
 			"[2] free [Mecha-Glove Brawler] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Monument] [in this city]"
 		],
 		"quote": "'Workers of the world, unite!' - the only plaque on the monument.",
@@ -117,7 +117,7 @@
 		"uniques": [
 			"Provides [1] [Weapons]",
 			"[1] free [Bounty Hunter] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Bounty Board] [in this city]"
 		],
 		"quote": "'Y'all best sit down and enjoy the sarsaparilla, or the Bartender's gonna haveta whip out his shotgun. And I mean it!'",
