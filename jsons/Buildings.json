@@ -850,7 +850,7 @@
 		"uniques": [
 			"[+1 Happiness, +2 Culture, +1 Production] [in all cities] <with [Steam]>",
 			"Cost increases by [50] per owned city",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Consumes [7] [Steam]"
 		],
 		//"hurryCostModifier": 25,
