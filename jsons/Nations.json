@@ -110,6 +110,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Tundra"],
+		"personality": "PersonalityName",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": ".",
@@ -172,6 +173,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Arcimboldo Vincenzo da Turin",
 		"adjective": ["Vincian"],
 		"startBias": ["Coast"],
+		"personality": "Vincenzo",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": "'You know, when the world broke, it broke us into so many pieces. Alone, we were without purpose, lost like a spring unwound. Bleak were the days when survival was uncertain.'",
@@ -238,6 +240,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Jasper La Verne",
 		"adjective": ["Lavernian"],
 		"startBias": ["Wasteland"],
+		"personality": "La Verne",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "I remember those dark, sunless days when we were stuck in our shelters. I'd thought we would never see the surface again, and our children would never know the feeling of wind on their cheeks. Then, when it's finally safe to go out, what greeted us was a desolate, ruined wasteland... and the skies. Just a glimpse of the bluest blue was all that it needed for us to survive. L'azur ciel!",
@@ -310,6 +313,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Konrad Junkers",
 		"adjective": ["Krieger"],
 		"startBias": ["Hill"],
+		"personality": "Junkers",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "'The apocalypse took almost everything from us. Our homes, our families, our hopes, our dreams. But look at us now.'",
@@ -377,6 +381,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Victoria Balmoral",
 		"adjective": ["Albion"],
 		"startBias": ["Coast"],
+		"personality": "Balmoral",
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "'My loyal subjects! Dreadful news have come from outside. The world had descended into utter barbarity. Gangs of brigands and zealots terrorize the land, technology had regressed back to pre-industrial times, and mutated vermin roam free to prey on people. Truly, a despicable and torturous existence.'",
@@ -443,6 +448,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Ilya Muromets",
 		"adjective": ["Proletar"],
 		"startBias": ["Tundra"],
+		"personality": "Muromets",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "'Comrades, I'm sure that each and every one of us here had suffered from unjust and cruel masters. They called us many names: worker, blue-collar, laborer, servant, slave - as we toil away while they live in comfort. We have known oppression in its many forms, from the jackboot to the whip.'",
@@ -509,6 +515,7 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 		"leaderName": "Bill Winchester",
 		"adjective": ["Wild Stallion"],
 		"startBias": ["Badlands"],
+		"personality": "Winchester",
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "Y'all might wonder how the Wild Stallions got its name. Well, long time ago, there was a bar of that name, full o' rough and rowdy folks with camaraderie in their hearts. Then the calamity came and them folks scattered to the four winds. But, you know how us 'salt of the earth'-types, we got back like cockroaches.",
