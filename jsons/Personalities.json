@@ -1,0 +1,251 @@
+[
+/*
+	{
+		"name": "Template",
+		// Stats focused personalities
+		"production": Production,
+		"food": Growth,
+		"gold": Gold,
+		"science": Science,
+		"culture": Culture,
+		"happiness": Happiness,
+		"faith": Religion,
+		// Behavour focused personalities
+		"military": Military Training,
+		"aggressive": Offensive or (10 - defensive) which ever is higher,
+		"declareWar": War,
+		"commerce": Gold + Chattiness,
+		"diplomacy": Diplomatic Balance + Friendly,
+		"loyal": Loyalty + Defense,
+		"expansion": Expansion,
+
+		"priorities": {
+			"Adaptation": Growth + Culture + Defensive,
+			"Expansionism": Expansion + CityStateCompetitiveness + CSFriendly,
+			"Sovereignty": Boldness + War,
+			"Theocracy": Religion + War,
+			"Rationalism": Science + Terraformer,
+			"Constitution": Growth + Culture + Happiness,
+			"Supremacy": Boldness + War,
+			"Monopoly": Gold + Chattiness + CityStateCompetitiveness + CSFriendly,
+			"Collectivism": Defensive + Production,
+			"Naturalism": Growth + Culture + Happiness,
+			"Mechanization": Boldness + Production + Military training,
+			"Bionics": Boldness + Science + Military training + Terraformer
+		},
+		"civilopediaText": [
+			{"text": "."}
+		]
+	},
+*/
+	{
+		"name": "Vincenzo",
+		// Stats focused personalities
+		"production": 8,
+		"food": 5,
+		"gold": 5,
+		"science": 7,
+		"culture": 6,
+		"happiness": 5,
+		"faith": 4,
+		
+		// Behavour focused personalities
+		"military": 7,
+		"aggressive": 2,
+		"declareWar": 4,
+		"commerce": 5,
+		"diplomacy": 7,
+		"loyal": 7,
+		"expansion": 5,
+
+		"priorities": {
+			"Adaptation": 10,
+			"Expansionism": 10,
+			"Sovereignty": 20,
+			"Theocracy": 0,
+			"Rationalism": 30,
+			"Constitution": 0,
+			"Supremacy": 0,
+			"Monopoly": 10,
+			"Collectivism": 20,
+			"Naturalism": 0,
+			"Mechanization": 20,
+			"Bionics": 40
+		},
+	},
+
+	"name": "La Verne",
+		// Stats focused personalities
+		"production": 6,
+		"food": 5,
+		"gold": 5,
+		"science": 6,
+		"culture": 9,
+		"happiness": 7,
+		"faith": 6,
+		
+		// Behavour focused personalities
+		"military": 5,
+		"aggressive": 5,
+		"declareWar": 4,
+		"commerce": 5,
+		"diplomacy": 7,
+		"loyal": 8,
+		"expansion": 6,
+
+		"priorities": {
+			"Adaptation": 20,
+			"Expansionism": 20,
+			"Sovereignty": 10,
+			"Theocracy": 10,
+			"Rationalism": 10,
+			"Constitution": 20,
+			"Supremacy": 0,
+			"Monopoly": 10,
+			"Collectivism": 0,
+			"Naturalism": 10,
+			"Mechanization": 20,
+			"Bionics": 0
+		},
+	},
+
+	"name": "Junkers",
+		// Stats focused personalities
+		"production": 9,
+		"food": 4,
+		"gold": 4,
+		"science": 4,
+		"culture": 4,
+		"happiness": 4,
+		"faith": 4,
+		
+		// Behavour focused personalities
+		"military": 9,
+		"aggressive": 8,
+		"declareWar": 7,
+		"commerce": 3,
+		"diplomacy": 3,
+		"loyal": 5,
+		"expansion": 8,
+
+		"priorities": {
+			"Adaptation": 10,
+			"Expansionism": 20,
+			"Sovereignty": 30,
+			"Theocracy": 0,
+			"Rationalism": 0,
+			"Constitution": 0,
+			"Supremacy": 20,
+			"Monopoly": 10,
+			"Collectivism": 10,
+			"Naturalism": 0,
+			"Mechanization": 40,
+			"Bionics": 20
+		},
+	},
+
+	"name": "Balmoral",
+		// Stats focused personalities
+		"production": 6,
+		"food": 6,
+		"gold": 8,
+		"science": 5,
+		"culture": 7,
+		"happiness": 5,
+		"faith": 7,
+		
+		// Behavour focused personalities
+		"military": 6,
+		"aggressive": 7,
+		"declareWar": 5,
+		"commerce": 8,
+		"diplomacy": 6,
+		"loyal": 3,
+		"expansion": 9,
+
+		"priorities": {
+			"Adaptation": 10,
+			"Expansionism": 20,
+			"Sovereignty": 10,
+			"Theocracy": 20,
+			"Rationalism": 0,
+			"Constitution": 0,
+			"Supremacy": 10,
+			"Monopoly": 30,
+			"Collectivism": 0,
+			"Naturalism": 40,
+			"Mechanization": 20,
+			"Bionics": 10
+		},
+	},
+
+	"name": "Muromets",
+		// Stats focused personalities
+		"production": 8,
+		"food": 8,
+		"gold": 3,
+		"science": 5,
+		"culture": 4,
+		"happiness": 5,
+		"faith": 2,
+		
+		// Behavour focused personalities
+		"military": 5,
+		"aggressive": 6,
+		"declareWar": 7,
+		"commerce": 4,
+		"diplomacy": 6,
+		"loyal": 4,
+		"expansion": 7,
+
+		"priorities": {
+			"Adaptation": 20,
+			"Expansionism": 10,
+			"Sovereignty": 10,
+			"Theocracy": 0,
+			"Rationalism": 20,
+			"Constitution": 10,
+			"Supremacy": 10,
+			"Monopoly": 0,
+			"Collectivism": 40,
+			"Naturalism": 0,
+			"Mechanization": 40,
+			"Bionics": 30
+		},
+	},
+
+	"name": "Winchester",
+		// Stats focused personalities
+		"production": 6,
+		"food": 7,
+		"gold": 7,
+		"science": 3,
+		"culture": 6,
+		"happiness": 5,
+		"faith": 4,
+		
+		// Behavour focused personalities
+		"military": 7,
+		"aggressive": 5,
+		"declareWar": 6,
+		"commerce": 7,
+		"diplomacy": 5,
+		"loyal": 9,
+		"expansion": 4,
+
+		"priorities": {
+			"Adaptation": 30,
+			"Expansionism": 10,
+			"Sovereignty": 30,
+			"Theocracy": 0,
+			"Rationalism": 10,
+			"Constitution": 30,
+			"Supremacy": 10,
+			"Monopoly": 10,
+			"Collectivism": 0,
+			"Naturalism": 10,
+			"Mechanization": 20,
+			"Bionics": 10
+		},
+	},
+]
