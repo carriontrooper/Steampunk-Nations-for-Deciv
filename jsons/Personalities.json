@@ -74,7 +74,8 @@
 		},
 	},
 
-	"name": "La Verne",
+	{
+		"name": "La Verne",
 		// Stats focused personalities
 		"production": 6,
 		"food": 5,
@@ -109,7 +110,8 @@
 		},
 	},
 
-	"name": "Junkers",
+	{
+		"name": "Junkers",
 		// Stats focused personalities
 		"production": 9,
 		"food": 4,
@@ -144,7 +146,8 @@
 		},
 	},
 
-	"name": "Balmoral",
+	{
+		"name": "Balmoral",
 		// Stats focused personalities
 		"production": 6,
 		"food": 6,
@@ -179,7 +182,8 @@
 		},
 	},
 
-	"name": "Muromets",
+	{
+		"name": "Muromets",
 		// Stats focused personalities
 		"production": 8,
 		"food": 8,
@@ -214,7 +218,8 @@
 		},
 	},
 
-	"name": "Winchester",
+	{
+		"name": "Winchester",
 		// Stats focused personalities
 		"production": 6,
 		"food": 7,
