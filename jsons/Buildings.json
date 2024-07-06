@@ -11,7 +11,8 @@
 			//"Provides [1] [Power]",
 			"[2] free [Architron Infantry Model] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Clockwork Workshop] [in this city]"
+			"Gain a free [Clockwork Workshop] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'Here in Arcimboldo Vincenzo da Turin's expanded workshop, inventors, scientists, and engineers exchange ideas and turn them into problem-solving machines. We can fix the future!'",
 		"civilopediaText": [
@@ -34,7 +35,8 @@
 			"[1] free [Speeder Hover] units appear",
 			"[1] free [Ornithopter] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Dirigible Hangar] [in this city]"
+			"Gain a free [Dirigible Hangar] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'Do you crave adventure? Do you hear the call of exploration? Become a Skycaptain! Sign up for the aerial corps, today!'",
 		"civilopediaText": [
@@ -54,7 +56,8 @@
 			"Provides [2] [Steam]",
 			"[1] free [Gunther Lpz Mk I] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Metalworks] [in this city]"
+			"Gain a free [Metalworks] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'Through perspiration, aspiration.' - chief motto of the Krieger's Central Factory",
 		"civilopediaText": [
@@ -75,7 +78,8 @@
 			"Provides [3] [Weapons]",
 			"[2] free [Royal Musketeer] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Royal Garden] [in this city]"
+			"Gain a free [Royal Garden] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'The regent must have their own abode, of the highest quality available - so that their glory might still be preserved.'",
 		"civilopediaText": [
@@ -96,7 +100,8 @@
 			//"Provides [2] [Steam]",
 			"[2] free [Mecha-Glove Brawler] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Monument] [in this city]"
+			"Gain a free [Monument] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'Workers of the world, unite!' - the only plaque on the monument.",
 		"civilopediaText": [
@@ -118,7 +123,8 @@
 			"Provides [1] [Weapons]",
 			"[1] free [Bounty Hunter] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Bounty Board] [in this city]"
+			"Gain a free [Bounty Board] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'Y'all best sit down and enjoy the sarsaparilla, or the Bartender's gonna haveta whip out his shotgun. And I mean it!'",
 		"civilopediaText": [
