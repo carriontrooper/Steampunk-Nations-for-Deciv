@@ -599,4 +599,69 @@ UB: Worker's Council
 			"Windbag"
 		]
 	}
+/*
+	{
+		"name": "Winterhearth",
+		"leaderName": "Sven Snorberg",
+		"adjective": ["Winterhearth"],
+		"startBias": ["Permafrost"],
+		"personality": "Snorberg",
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "Hope",
+		"uniqueName": "Frost and Famine",
+		"uniques": [
+			"Uniques Go Here"
+		],
+		"cities": [
+			"Winterhome",
+			"Lost Autumn",
+			"City2",
+			"City3",
+			"City4",
+			"City5",
+			"City6",
+			"City7",
+			"City8",
+			"City9",
+			"City10",
+			"City11",
+			"City12",
+			"City13",
+			"City14",
+			"City15",
+			"City16",
+			"City17",
+			"City18",
+			"AndSoOn"
+		],
+		"spyNames": [
+			"Spy1",
+			"Spy2",
+			"Spy3",
+			"Spy4",
+			"Spy5",
+			"Spy6",
+			"Spy7",
+			"Spy8",
+			"Spy9",
+			"Spy10"
+		]
+	}
+*/
 ]
