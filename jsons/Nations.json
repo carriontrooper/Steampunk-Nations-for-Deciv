@@ -100,11 +100,11 @@ UB: Firing Range
 UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 
 Winterhearth
-frostpunk inspired, their UBs require steam, and they start with halved food unless they have steam
-UW: Steam Generator Tower ()
-UU: Citizen Militia
+frostpunk inspired, their UBs require steam, and they start with halved food and happiness unless they have enough steam
+UW: Steam Generator Tower (spawns 1 Arctic Scout)
 UU: Arctic Scout
 UU: Automaton
+UU: Snow Crawler
 UU: Thawed Dreadnought
 UI: Steam Hub
 UI: Coal Thumper
