@@ -109,10 +109,13 @@ UI: Coal Thumper
 UB: Agitator
 UB: Cookhouse
 UB: Hothouse
+UB: Admin Building
 UB: Child Shelter
 UB: Child Factory
+UB: Faith Keeper
 UB: House of Prayer
-UB: Administration
+UB: Labour Union
+UB: Worker's Council
 */
 
 /* template: at least 20 city names
