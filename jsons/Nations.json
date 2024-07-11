@@ -102,11 +102,14 @@ UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
 Winterhearth
 frostpunk inspired, their UBs require steam, and they start with halved food unless they have steam
 UW: Steam Generator Tower ()
-UU: 
+UU: Scout Team
 UI: Steam Hub
-UI: 
-UB: 
-UB: 
+UB: Agitator
+UB: Cookhouse
+UB: Hothouse
+UB: Child Shelter
+UB: Child Factory
+UB: Administration
 */
 
 /* template: at least 20 city names
