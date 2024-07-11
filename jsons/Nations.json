@@ -621,8 +621,8 @@ UB: Worker's Council
 
 		"tradeRequest": ".",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [40, 50, 77],
+		"innerColor": [208, 241, 247],
 		"favoredReligion": "Hope",
 		"uniqueName": "Frost and Famine",
 		"uniques": [
