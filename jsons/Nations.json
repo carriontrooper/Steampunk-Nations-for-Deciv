@@ -626,7 +626,12 @@ UB: Worker's Council
 		"favoredReligion": "Hope",
 		"uniqueName": "Frost and Famine",
 		"uniques": [
-			"Uniques Go Here"
+			"[-30]% [Food] [in all cities] <when below [1] [Steam]>",
+			"[-20]% [Food] [in all cities] <when below [3] [Steam]>",
+			"[-10]% [Food] [in all cities] <when below [5] [Steam]>",
+			"[-3] [Happiness] [in all cities] <when below [1] [Steam]>",
+			"[-2] [Happiness] [in all cities] <when below [3] [Steam]>",
+			"[-1] [Happiness] [in all cities] <when below [5] [Steam]>",
 		],
 		"cities": [
 			"Winterhome",
