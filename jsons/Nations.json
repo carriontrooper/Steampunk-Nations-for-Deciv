@@ -98,6 +98,15 @@ UB: Trainyard (prereq for Locomotives)
 UB: Tracklayer's Guild
 UB: Firing Range
 UB: Pneumatic Gunsmithy (needs Steam, gives Guns)
+
+Winterhearth
+frostpunk inspired, their UBs require steam, and they start with halved food unless they have steam
+UW: Steam Generator Tower ()
+UU: 
+UI: Steam Hub
+UI: 
+UB: 
+UB: 
 */
 
 /* template: at least 20 city names
