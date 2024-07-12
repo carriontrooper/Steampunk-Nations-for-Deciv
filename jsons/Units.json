@@ -1099,6 +1099,7 @@
 		//"upgradesTo": "Advanced Armor",
 		"uniques": [
 			"Limited to [1] per Civilization",
+			"May travel on Water tiles without embarking",
 			"[+5]% Strength bonus for [Military] units within [3] tiles",
 			"[+5]% Strength bonus for [Military] units within [2] tiles",
 			"[+10]% Strength bonus for [Military] units within [1] tiles",
