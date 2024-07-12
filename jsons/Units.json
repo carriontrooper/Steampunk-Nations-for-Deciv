@@ -1099,7 +1099,9 @@
 		//"upgradesTo": "Advanced Armor",
 		"uniques": [
 			"Limited to [1] per Civilization",
-			"[+20]% Strength bonus for [Military] units within [3] tiles",
+			"[+5]% Strength bonus for [Military] units within [3] tiles",
+			"[+5]% Strength bonus for [Military] units within [2] tiles",
+			"[+10]% Strength bonus for [Military] units within [1] tiles",
 			"[+25]% Strength <vs cities> <when attacking>",
 			"[+25]% Strength <vs [Armor] units> <when defending>",
 			"No defensive terrain bonus",
