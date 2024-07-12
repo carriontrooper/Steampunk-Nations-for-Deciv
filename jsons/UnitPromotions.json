@@ -79,4 +79,17 @@
 		"column": 11,
 		"row": 9
 	}
+	/*
+	{
+		"name": "Winter Explorer",
+		"uniques": [
+			"[+1] Movement <in [Permafrost] tiles>",
+			"[+1] Sight <in [Permafrost] tiles>",
+			"[+1] Movement <in [Tundra] tiles>",
+			"[+1] Sight <in [Tundra] tiles>",
+		],
+		"column": 11,
+		"row": 10
+	}
+	*/
 ]
