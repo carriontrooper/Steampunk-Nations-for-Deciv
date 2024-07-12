@@ -1078,6 +1078,8 @@
 			"[-25]% Strength <vs cities> <when attacking>",
 			"[+1] Movement <in [Permafrost] tiles>",
 			"[+1] Sight <in [Permafrost] tiles>",
+			"[+1] Movement <in [Tundra] tiles>",
+			"[+1] Sight <in [Tundra] tiles>",
 			"No defensive terrain bonus",
 			"Only available <if [Steelworks] is constructed>",
 			"Consumes [1] [Steam]",
