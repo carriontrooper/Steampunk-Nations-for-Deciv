@@ -10,7 +10,7 @@
 		"culture": Culture,
 		"happiness": Happiness,
 		"faith": Religion,
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": Military Training,
 		"aggressive": Offensive or (10 - defensive) which ever is higher,
 		"declareWar": War,
@@ -49,7 +49,7 @@
 		"happiness": 5,
 		"faith": 4,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 7,
 		"aggressive": 2,
 		"declareWar": 4,
@@ -85,7 +85,7 @@
 		"happiness": 7,
 		"faith": 6,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 5,
 		"aggressive": 5,
 		"declareWar": 4,
@@ -121,7 +121,7 @@
 		"happiness": 4,
 		"faith": 4,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 9,
 		"aggressive": 8,
 		"declareWar": 7,
@@ -157,7 +157,7 @@
 		"happiness": 5,
 		"faith": 7,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 6,
 		"aggressive": 7,
 		"declareWar": 5,
@@ -193,7 +193,7 @@
 		"happiness": 5,
 		"faith": 2,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 5,
 		"aggressive": 6,
 		"declareWar": 7,
@@ -229,7 +229,7 @@
 		"happiness": 5,
 		"faith": 4,
 		
-		// Behavour focused personalities
+		// Behaviour focused personalities
 		"military": 7,
 		"aggressive": 5,
 		"declareWar": 6,
@@ -252,5 +252,42 @@
 			"Mechanization": 20,
 			"Bionics": 10
 		},
+	}
+/*
+	{
+		"name": "Snorberg",
+		// Stats focused personalities
+		"production": 8,
+		"food": 8,
+		"gold": 3,
+		"science": 4,
+		"culture": 7,
+		"happiness": 8,
+		"faith": 6,
+		
+		// Behaviour focused personalities
+		"military": 5,
+		"aggressive": 3,
+		"declareWar": 3,
+		"commerce": 4,
+		"diplomacy": 6,
+		"loyal": 6,
+		"expansion": 4,
+
+		"priorities": {
+			"Adaptation": 30,
+			"Expansionism": 10,
+			"Sovereignty": 10,
+			"Theocracy": 20,
+			"Rationalism": 20,
+			"Constitution": 20,
+			"Supremacy": 10,
+			"Monopoly": 10,
+			"Collectivism": 20,
+			"Naturalism": 0,
+			"Mechanization": 30,
+			"Bionics": 30
+		},
 	},
+*/
 ]
