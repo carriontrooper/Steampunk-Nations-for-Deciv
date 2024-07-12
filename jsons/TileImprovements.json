@@ -1,0 +1,37 @@
+[
+	/*
+	{
+		"name": "Steam Hub",
+		"uniqueTo": "Winterhearth",
+		"terrainsCanBeBuiltOn": ["Permafrost","Tundra","Fissure"],
+		"production": 1,
+		"turnsToBuild": 9,
+		"techRequired": "Mining",
+		"uniques": [
+			"Provides [1] [Steam]",
+			"Provides [3] [Steam] <in [Fissure] tiles>",
+			"[+1 Production] <after discovering [Steam Power]>",
+			"[+1 Production] <after discovering [Railroads]>",
+			"[+20]% Strength bonus for [Military] units within [3] tiles",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		]
+	},
+	{
+		"name": "Coal Thumper",
+		"uniqueTo": "Winterhearth",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Desert","Permafrost","Tundra"],
+		"production": 2,
+		"turnsToBuild": 9,
+		"techRequired": "Steam Power",
+		"uniques": [
+			"Consumes [1] [Steam]",
+			"Provides [2] [Coal]",
+			"Can only be built on [Coal] tiles",
+			"Can only be built to improve a resource",
+			"Improves [Coal] resource in this tile",
+			"[+1 Production] <after discovering [Railroads]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		]
+	},
+	*/
+]
