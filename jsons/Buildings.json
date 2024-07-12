@@ -133,6 +133,30 @@
 			}
 		]
 	},
+
+	/*
+	{
+		"name": "Steam Generator Tower",
+		"isWonder": true,
+		"uniqueTo": "Winterhearth",
+		"production": 2,
+		"gold": 1,
+		"cost": 1,
+		"uniques": [
+			"Provides [5] [Steam]",
+			"[1] free [Arctic Scout] units appear",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Monument] [in this city]",
+			"Automatically built in all cities where it is buildable"
+		],
+		"quote": "'This is our tower, our source of heat, our very reason of survival. This is why we labor to keep it running, so that the winter won't take us into the cold.'",
+		"civilopediaText": [
+			{
+				"text": "A massive, towering geothermal tap, it provides heat and steam in the frozen north."
+			}
+		]
+	},
+	*/
 	
 	// unique buildings
 	// Vincian
@@ -704,6 +728,198 @@
 		],
 		"requiredTech": "Manufacturing"
 	},
+
+	//Winterhearth
+	/*
+	{
+		"name": "Labour Union",
+		"replaces": "Congress",
+		"uniqueTo": "Winterhearth",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[+1 Production] per [5] population [in all cities] <when above [0] [Steam]> <when below [5] [Steam]>",
+			"[+1 Production] per [3] population [in all cities] <when above [4] [Steam]>",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Worker's Council]>",
+			"Destroyed when the city is captured",
+			"Consumes [1] [Steam]"
+		]
+	},
+	{
+		"name": "Worker's Council",
+		"replaces": "Council",
+		"uniqueTo": "Winterhearth",
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in this city] <when above [0] [Steam]> <when below [5] [Steam]>",
+			"[+5]% Production when constructing [All] buildings [in this city] <when above [4] [Steam]>",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Labour Union]>",
+			"Destroyed when the city is captured",
+			"Consumes [1] [Steam]"
+		]
+	},
+	{
+		"name": "Admin Building",
+		"replaces": "Town Hall",
+		"uniqueTo": "Winterhearth",
+		"specialistSlots": { "Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness, +1 Culture] [in this city] <when above [4] [Steam]>",
+			"Consumes [1] [Steam]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Faith Keepers",
+		"replaces": "Listening Post",
+		"uniqueTo": "Winterhearth",
+		"faith": 1,
+		"maintenance": 1,
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"[+1 Faith] [in this city] <when above [4] [Steam]>",
+			"[-25]% enemy spy effectiveness [in this city]",
+			"Only available <in cities without a [Prison Camp]>",
+			"Destroyed when the city is captured",
+			"Hidden when espionage is disabled",
+			"Consumes [1] [Steam]"
+		],
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Child Factory",
+		"replaces": "Forge",
+		"uniqueTo": "Winterhearth",
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Scrap", "Metal"],
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"[-1 Happiness] per [5] population [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] [in this city] <when above [0] [Steam]>",
+			"[+1 Production] [in this city] <with [Machine Parts]>",
+			"Consumes [1] [Steam]"
+		]
+	},
+	{
+		"name": "Child Shelter",
+		"replaces": "Library",
+		"uniqueTo": "Winterhearth",
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Happiness] per [5] population [in this city]",
+			"[+1 Science] [in this city] <when above [0] [Steam]>",
+			"[+1 Science] per [3] population [in this city]",
+			"[+1 Science, +1 Culture] from [Books] tiles [in this city]",
+			"Consumes [1] [Steam]"
+		],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Steelworks",
+		"replaces": "Factory",
+		"uniqueTo": "Winterhearth",
+		// "food": -1,
+		"percentStatBonus": { "production": 20 },
+		"specialistSlots": { "Engineer": 2 },
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"Only available <in cities with a [Child Factory]>",
+			"[+3 Production] [in this city] <when above [0] [Steam]>",
+			"[+1 Production] [in this city] <with [Machine Parts]>",
+			"[+1 Production] from [Machine Parts] tiles [in this city]",
+			"[+1 Production] from [Metal] tiles [in this city]",
+			"Consumes [2] [Steam]"
+		],
+		"requiredTech": "Manufacturing",
+		"civilopediaText": [
+			{
+				"text": "This building is required for the construction of advanced units."
+			}
+		]
+	},
+	{
+		"name": "House of Prayer",
+		"replaces": "Monastery",
+		"uniqueTo": "Winterhearth",
+		"faith": 2,
+		"happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+			"Hidden when religion is disabled",
+			"Consumes [1] [Steam]"
+		]
+	},
+	{
+		"name": "Cookhouse",
+		"replaces": "Food Store",
+		"uniqueTo": "Winterhearth",
+		"cost": 10,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]",
+			"[+1 Food] [in this city] <when above [0] [Steam]>",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Alcohol]>",
+			//"[-1 Production, +1 Gold] [in this city] <with [Narcotics]>",
+			//"[-1 Production, -1 Food, +1 Gold] [in this city] <with [Refined Narcotics]>",
+			"Consumes [1] [Steam]"
+		]
+	},
+	{
+		"name": "Hothouse",
+		"replaces": "Greenhouse",
+		"uniqueTo": "Winterhearth",
+		"food": 2,
+		"specialistSlots": { "Farmer": 1 },
+		"uniques": [
+			"[+1 Food] [in this city] <when above [0] [Steam]>",
+			"[+1 Food] [in this city] <when above [5] [Steam]>",
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"Consumes [1] [Steam]"
+		],
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany"
+	},
+	{
+		"name": "Dispensary",
+		"replaces": "Hospital",
+		"uniqueTo": "Winterhearth",
+		"science": -1,
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology",
+		"uniques": [
+			"[30]% Food is carried over after population increases [in this city] <when above [0] [Steam]>",
+			"All newly-trained [relevant] units [in this city] receive the [Medic I] promotion",
+			"[+1 Food] [in this city] <with [Harvested Organs]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Narcotics]>",
+			"[-1 Production, -1 Food, +1 Gold] [in this city] <with [Refined Narcotics]>",
+			"Consumes [1] [Steam]"
+		]
+	},
+	*/
 	
 	/*
 	Vincian:
@@ -749,6 +965,19 @@
 	UB: Tracklayer's Guild
 	UB: Firing Range
 	UB: Pneumatic Gunsmithy (needs Steam, gives Weapons)
+
+	Winterhearth:
+	UB: Dispensary
+	UB: Cookhouse
+	UB: Hothouse
+	UB: Admin Building
+	UB: Steelworks
+	UB: Child Shelter
+	UB: Child Factory
+	UB: Faith Keeper
+	UB: House of Prayer
+	UB: Labour Union
+	UB: Worker's Council
 	*/
 	
 	// non-unique steam producers
