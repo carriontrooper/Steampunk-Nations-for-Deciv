@@ -13,6 +13,7 @@
 		"uniques": [
 		    "Personnel",
 			"Clockwork Powered",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Can build [All Road] improvements on tiles",
 			"Only available <if [Wind-Up Station] is constructed>",
@@ -37,6 +38,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Infantry Model]",
@@ -62,6 +64,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			//"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Infantry Model]",
@@ -85,6 +88,7 @@
 		    "Personnel",
 		    "Mounted",
 			"Clockwork Powered",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"[+1] Sight",
 			"Only available <if [Wind-Up Station] is constructed>",
@@ -110,6 +114,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"[+20]% Strength <when defending>",
 			"[-1] Movement <in [Rough terrain] tiles>"
@@ -136,6 +141,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"[+20]% to Flank Attack bonuses",
 			"[+1] Movement <in [Open terrain] tiles>"
@@ -160,6 +166,7 @@
 		"uniques": [
 		    "Personnel",
 			"Clockwork Powered",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Only available <if [Wind-Up Station] is constructed>",
 			"Can transform to [Architron Stoic Guardian]",
@@ -183,6 +190,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"[+20]% Strength <when defending>",
 			"[+10]% Strength bonus for [Military] units within [1] tiles",
@@ -208,6 +216,7 @@
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"[+20]% Strength <when attacking>",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
@@ -1053,8 +1062,10 @@
 		"requiredTech": "Manufacturing",
 		"uniques": [
 		    	"Personnel",
+			"No defensive terrain bonus",
 			"No defensive terrain penalty",
-			"Can build [All Road] improvements on tiles",
+			"Can build [Land] improvements on tiles",
+			"[-25]% construction time for [All] improvements",
 			"Only available <if [Steelworks] is constructed>",
 			"Consumes [1] [Steam]",
 			"Never appears as a Barbarian unit"
