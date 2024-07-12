@@ -1021,6 +1021,93 @@
 		"hurryCostModifier": 20,
 		"attackSound": "tankshot"
 	}
+
+	//Winterhearth
+	/*
+	{
+		"name": "Arctic Scout",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Winterhearth",
+		"movement": 2,
+		"strength": 12,
+		"cost": 25,
+		"upgradesTo": "Gunman",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"[-50]% Strength <vs cities>",
+			"Unable to capture cities",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Reconnaissance I", "Skirmish", "Winter Explorer"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Automaton",
+		"unitType": "Civilian",
+		"uniqueTo": "Winterhearth",
+		"movement": 2,
+		"cost": 150,
+		"requiredTech": "Manufacturing",
+		"uniques": [
+		    	"Personnel",
+			"No defensive terrain penalty",
+			"Can build [All Road] improvements on tiles",
+			"Only available <if [Steelworks] is constructed>",
+			"Consumes [1] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Clockwork Automaton"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Snow Crawler",
+		"unitType": "Armor",
+		"replaces": "Tank",
+		"uniqueTo": "Winterhearth",
+		"movement": 4,
+		"strength": 60,
+		"cost": 225,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Advanced Materials",
+		"uniques": [
+			"Can move after attacking",
+			"[-25]% Strength <vs cities> <when attacking>",
+			"[+1] Movement <in [Permafrost] tiles>",
+			"[+1] Sight <in [Permafrost] tiles>",
+			"No defensive terrain bonus",
+			"Only available <if [Steelworks] is constructed>",
+			"Consumes [1] [Steam]",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Thawed Dreadnought",
+		"unitType": "Armor",
+		"uniqueTo": "Winterhearth",
+		"movement": 5,
+		"strength": 125,
+		"cost": 500,
+		"requiredTech": "Advanced Materials",
+		//"upgradesTo": "Advanced Armor",
+		"uniques": [
+			"Limited to [1] per Civilization",
+			"[+25]% Strength <vs cities> <when attacking>",
+			"[+25]% Strength <vs [Armor] units> <when defending>",
+			"No defensive terrain bonus",
+			"Only available <if [Steelworks] is constructed>",
+			"Consumes [10] [Steam]",
+			"Cannot be purchased",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "tankshot"
+	},
+	*/
 	
 	/*
 	Vincian:
@@ -1075,5 +1162,11 @@
 	UU: Steam Locomotive (needs Steam)
 	UU: Armored Locomotive (needs Steam)
 	UU: Steam Spider (needs Steam)
+
+	Winterhearth:
+	UU: Arctic Scout
+	UU: Automaton
+	UU: Snow Crawler
+	UU: Thawed Dreadnought
 	*/
 ]
