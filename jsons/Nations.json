@@ -602,7 +602,7 @@ UB: Worker's Council
 		"name": "Winterhearth",
 		"leaderName": "Sven Snorberg",
 		"adjective": ["Winterhearth"],
-		"startBias": ["Permafrost"],
+		"startBias": ["Tundra"],
 		"personality": "Snorberg",
 		"preferredVictoryType":"Cultural",
 
