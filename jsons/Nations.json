@@ -630,6 +630,10 @@ UB: Worker's Council
 			"[-3] [Happiness] [in all cities] <when below [1] [Steam]>",
 			"[-2] [Happiness] [in all cities] <when below [3] [Steam]>",
 			"[-1] [Happiness] [in all cities] <when below [5] [Steam]>",
+			"[+5]% Strength <for [Military] units> <within [3] tiles of a [Steam Hub]>",
+			"[+5]% Strength <for [Military] units> <within [2] tiles of a [Steam Hub]>",
+			"[+10]% Strength <for [Military] units> <within [1] tiles of a [Steam Hub]>",
+			"[+20]% Strength decreasing with distance from the capital"
 		],
 		"cities": [
 			"Winterhome",
