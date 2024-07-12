@@ -264,8 +264,8 @@ UB: Worker's Council
 		"personality": "La Verne",
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": "I remember those dark, sunless days when we were stuck in our shelters. I'd thought we would never see the surface again, and our children would never know the feeling of wind on their cheeks. Then, when it's finally safe to go out, what greeted us was a desolate, ruined wasteland... and the skies. Just a glimpse of the bluest blue was all that it needed for us to survive. L'azur ciel!",
-		"startIntroPart2": "That is right, mon ami - within that speck of blue we saw our dreams rising up once again. Our thirst for exploration, and a desire to be better than our past selves. So let the others squabble over these ruined land, for we take to the skies! After all, the sky is the limit!",
+		"startIntroPart1": "'I remember those dark, sunless days when we were stuck in our shelters. I'd thought we would never see the surface again, and our children would never know the feeling of wind on their cheeks. Then, when it's finally safe to go out, what greeted us was a desolate, ruined wasteland... and the skies. Just a glimpse of the bluest blue was all that it needed for us to survive. L'azur ciel!'",
+		"startIntroPart2": "'That is right, mon ami - within that speck of blue we saw our dreams rising up once again. Our thirst for exploration, and a desire to be better than our past selves. So let the others squabble over these ruined land, for we take to the skies! After all, the sky is the limit!'",
 
 		"declaringWar": "Sorry, mon ami - we need fuel for our further exploration.",
 		"attacked": "How could you? Treachery!",
@@ -606,8 +606,8 @@ UB: Worker's Council
 		"personality": "Snorberg",
 		"preferredVictoryType":"Cultural",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "'When the Cataclysm hit, the cold swept from the north. Many perished to the cold, and to famine. For a moment, it seemed that we were fated to wither away, shivering in the wake of that long winter.'",
+		"startIntroPart2": "'But we did not lose hope. Our scientists and engineers built a mighty tower, one powered by the heat of the earth, to radiate warmth into our homes, factories, and hothouses. We have survived the long winter, and so we will survive the wasteland as well!'",
 
 		"declaringWar": "We envy the warmth of your lands, and we are tired of being left in the cold!",
 		"attacked": "Revenge is a dish best served cold.",
