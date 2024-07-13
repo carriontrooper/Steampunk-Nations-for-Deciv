@@ -247,7 +247,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-40]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat ([75]%)",
 			"Only available <if [Clockwork Workshop] is constructed>",
 			//"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -358,7 +358,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([80]%)",
+			"Withdraws before melee combat <with [80]% chance>",
 			"Only available <if [Aetheric Engine Garage] is constructed>",
 			"Consumes [1] [Steam]",
 			"Never appears as a Barbarian unit"
@@ -388,7 +388,7 @@
 			"[-50]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Sentry"],
@@ -414,7 +414,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[+10]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Dirigible Hangar] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -442,7 +442,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Dirigible Hangar] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -694,7 +694,7 @@
 		"uniques": [
 			"Consumes [1] [Steam]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -721,7 +721,7 @@
 			"[+33]% Strength <vs [Submarine] units>",
 			"[+50]% Strength <vs [Helicopter] units>",
 			"[+10]% Strength <vs [Water] units>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [2] [Steam]",
 			"Never appears as a Barbarian unit"
@@ -814,7 +814,7 @@
 			"[+10]% Strength <vs [Low Tech] units>",
 			"[-50]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Consumes [1] [Oil]"
 		],
 		"hurryCostModifier": 20,
