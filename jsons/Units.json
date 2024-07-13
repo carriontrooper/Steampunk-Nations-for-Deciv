@@ -1032,7 +1032,6 @@
 	}
 
 	//Winterhearth
-	/*
 	{
 		"name": "Arctic Scout",
 		"unitType": "Scout",
@@ -1124,7 +1123,7 @@
 		],
 		"attackSound": "tankshot"
 	},
-	*/
+	
 	
 	/*
 	Vincian:
