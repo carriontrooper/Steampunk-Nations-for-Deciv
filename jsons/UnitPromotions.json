@@ -57,7 +57,7 @@
 	{
 		"name": "Desperate Measures",
 		"uniques": [
-			"Damage is ignored when determining unit Strength <when below [10] HP>"
+			"No damage penalty for wounded units <when below [10] HP>"
 		],
 		"column": 11,
 		"row": 7
