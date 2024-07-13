@@ -247,7 +247,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-40]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat ([75]%)",
+			"Withdraws before melee combat < with [75]% chance>",
 			"Only available <if [Clockwork Workshop] is constructed>",
 			//"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
