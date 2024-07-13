@@ -596,8 +596,8 @@ UB: Worker's Council
 			"Mudsill",
 			"Windbag"
 		]
-	}
-/*
+	},
+
 	{
 		"name": "Winterhearth",
 		"leaderName": "Sven Snorberg",
@@ -670,5 +670,5 @@ UB: Worker's Council
 			"Johan"
 		]
 	}
-*/
+
 ]
