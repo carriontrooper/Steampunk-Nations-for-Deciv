@@ -918,6 +918,18 @@
 			"Consumes [1] [Steam]"
 		]
 	},
+
+	{
+		"name": "Steam Generator",
+		"uniqueTo": "Winterhearth",
+		"production": 1,
+		"cost": 1,
+		"uniques": [
+			"Provides [3] [Steam]",
+			"Can only be built <in [non-[Capital]] cities>",
+			"Automatically built in all cities where it is buildable"
+		],
+	},
 	
 	
 	/*
