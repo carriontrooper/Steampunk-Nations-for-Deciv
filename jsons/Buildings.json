@@ -920,7 +920,7 @@
 	},
 
 	{
-		"name": "Steam Heat Generator",
+		"name": "Municipal Steam Generator",
 		"uniqueTo": "Winterhearth",
 		"production": 1,
 		"cost": 1,
