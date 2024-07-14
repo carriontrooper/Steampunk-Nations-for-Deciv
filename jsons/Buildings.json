@@ -920,13 +920,13 @@
 	},
 
 	{
-		"name": "Steam Generator",
+		"name": "Steam Heat Generator",
 		"uniqueTo": "Winterhearth",
 		"production": 1,
 		"cost": 1,
 		"uniques": [
 			"Provides [3] [Steam]",
-			"Can only be built <in [Winterhearth] cities> <in cities without a [Steam Generator Tower]>",
+			"Can only be built <in [Your] cities> <in cities without a [Steam Generator Tower]>",
 			"Automatically built in all cities where it is buildable"
 		],
 		"requiredTech": "The Wheel"
