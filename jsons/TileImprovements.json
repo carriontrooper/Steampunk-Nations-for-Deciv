@@ -10,6 +10,9 @@
 		"uniques": [
 			"Provides [1] [Steam]",
 			"Provides [3] [Steam] <in [Fissure] tiles>",
+			"Provides [2] [Steam] <after discovering [Steam Power]>",
+			"Provides [2] [Steam] <in [Fissure] tiles> <after discovering [Steam Power]>",
+			"Cannot be built <within [2] tiles of a [Steam Hub]>",
 			"[+1 Production] <after discovering [Steam Power]>",
 			"[+1 Production] <after discovering [Railroads]>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
