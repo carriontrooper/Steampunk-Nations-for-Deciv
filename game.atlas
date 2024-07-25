@@ -270,170 +270,177 @@ BuildingIcons/Military-Grade Boiler
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Munitions Factory
+BuildingIcons/Municipal Steam Generator
   rotate: false
   xy: 1300, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Nuclear Boiler
+BuildingIcons/Munitions Factory
   rotate: false
-  xy: 652, 160
+  xy: 544, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Oil-Fueled Boiler
+BuildingIcons/Nuclear Boiler
   rotate: false
   xy: 760, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Petrochem Steam Reactant
+BuildingIcons/Oil-Fueled Boiler
   rotate: false
-  xy: 1084, 592
+  xy: 868, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Pneumatic Gunsmithy
+BuildingIcons/Petrochem Steam Reactant
   rotate: false
   xy: 1192, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Pneumatic Gunsmithy
+  rotate: false
+  xy: 1300, 808
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Revolutionary Conclave
   rotate: false
-  xy: 1408, 916
+  xy: 652, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Revolutionary Monument
   rotate: false
-  xy: 760, 160
+  xy: 868, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Royal Garden
   rotate: false
-  xy: 1084, 484
+  xy: 1192, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Skycaptains' Tavern
   rotate: false
-  xy: 1516, 916
+  xy: 760, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Smog Market
   rotate: false
-  xy: 868, 160
+  xy: 976, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Smokestack District
   rotate: false
-  xy: 976, 268
+  xy: 1084, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Soil Sterilization
   rotate: false
-  xy: 1192, 484
+  xy: 1300, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stallion Saloon
   rotate: false
-  xy: 1408, 700
+  xy: 1516, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steam Generator
   rotate: false
-  xy: 1084, 268
+  xy: 1192, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steam Generator Tower
   rotate: false
-  xy: 1192, 376
+  xy: 1300, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steam Turbine
   rotate: false
-  xy: 1624, 808
+  xy: 1732, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steam Workboat Harbor
   rotate: false
-  xy: 1732, 916
+  xy: 976, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Steelworks
   rotate: false
-  xy: 1084, 160
+  xy: 1192, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Superheater
   rotate: false
-  xy: 1300, 376
+  xy: 1408, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tracklayers' Guild
   rotate: false
-  xy: 1624, 700
+  xy: 1732, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Trainyard
   rotate: false
-  xy: 1732, 808
+  xy: 1840, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Wind-Up Station
   rotate: false
-  xy: 1408, 376
+  xy: 1516, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Worker's Council
   rotate: false
-  xy: 1732, 700
+  xy: 1840, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Workers' Union
   rotate: false
-  xy: 1840, 808
+  xy: 1192, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -447,7 +454,7 @@ ImprovementIcons/Coal Thumper
   index: -1
 ImprovementIcons/Steam Hub
   rotate: false
-  xy: 1300, 484
+  xy: 1408, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -475,28 +482,28 @@ NationIcons/Laverne Aetherial Kingdom
   index: -1
 NationIcons/Proletaria
   rotate: false
-  xy: 1300, 808
+  xy: 1408, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Vincian States
   rotate: false
-  xy: 1084, 52
+  xy: 1192, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Wild Stallions
   rotate: false
-  xy: 1300, 268
+  xy: 1408, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Winterhearth
   rotate: false
-  xy: 1624, 592
+  xy: 1732, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -524,42 +531,42 @@ ReligionIcons/Golden Glory
   index: -1
 ReligionIcons/Northern Faith
   rotate: false
-  xy: 544, 52
+  xy: 652, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Perpetual Revolution
   rotate: false
-  xy: 976, 484
+  xy: 1084, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Savant Sainthood
   rotate: false
-  xy: 1300, 700
+  xy: 1408, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Vorsprung Durch Technik
   rotate: false
-  xy: 1192, 160
+  xy: 1300, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Steam
   rotate: false
-  xy: 1516, 808
+  xy: 1624, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coal Thumper
   rotate: false
-  xy: 1556, 444
+  xy: 1732, 624
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -587,294 +594,294 @@ TileSets/FantasyHex/Units/Air-Carrier
   index: -1
 TileSets/FantasyHex/Units/Architron Armored Cavalry
   rotate: false
-  xy: 1192, 124
+  xy: 1300, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Cavalry Model
   rotate: false
-  xy: 1300, 232
+  xy: 1408, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Fierce Guardian
   rotate: false
-  xy: 1408, 340
+  xy: 1516, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Guardian Model
   rotate: false
-  xy: 1516, 448
+  xy: 1624, 556
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Infantry Melee
   rotate: false
-  xy: 1624, 556
+  xy: 1732, 664
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Infantry Model
   rotate: false
-  xy: 1732, 664
+  xy: 1840, 772
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Infantry Ranged
   rotate: false
-  xy: 1840, 772
+  xy: 44, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Lightning Cavalry
   rotate: false
-  xy: 44, 16
+  xy: 1948, 940
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Architron Stoic Guardian
   rotate: false
-  xy: 1948, 940
+  xy: 1988, 988
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Arctic Scout
   rotate: false
-  xy: 1988, 988
+  xy: 1300, 196
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Armored Locomotive
   rotate: false
-  xy: 1192, 88
+  xy: 1340, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Armored Scout Car
   rotate: false
-  xy: 1232, 124
+  xy: 1408, 304
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Automaton
   rotate: false
-  xy: 1300, 196
+  xy: 1448, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bounty Hunter
   rotate: false
-  xy: 1340, 232
+  xy: 1516, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brunhild Gpz Mk I
   rotate: false
-  xy: 1408, 304
+  xy: 1556, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brunhild Gpz Mk II
   rotate: false
-  xy: 1448, 340
+  xy: 1624, 520
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cannon Dirigible
   rotate: false
-  xy: 1516, 400
+  xy: 1664, 544
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Driller Tank
   rotate: false
-  xy: 1624, 520
+  xy: 1772, 664
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gunther Lpz Mk I
   rotate: false
-  xy: 1664, 556
+  xy: 1840, 736
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gunther Lpz Mk II
   rotate: false
-  xy: 1732, 628
+  xy: 1880, 772
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hazard Steamsuit
   rotate: false
-  xy: 1772, 664
+  xy: 84, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helix Aircopter
   rotate: false
-  xy: 1840, 736
+  xy: 1948, 904
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Makeshift Steamsuit
   rotate: false
-  xy: 1880, 772
+  xy: 1988, 952
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mecha-Glove Brawler
   rotate: false
-  xy: 84, 16
+  xy: 1300, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile Cannon
   rotate: false
-  xy: 1948, 904
+  xy: 1340, 196
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monowheel
   rotate: false
-  xy: 1988, 952
+  xy: 1408, 268
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ornithopter
   rotate: false
-  xy: 1192, 52
+  xy: 1380, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rough Rider
   rotate: false
-  xy: 1232, 88
+  xy: 1448, 304
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Roulette Tank
   rotate: false
-  xy: 1300, 160
+  xy: 1516, 376
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Royal Musketeer
   rotate: false
-  xy: 1272, 124
+  xy: 1488, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Snow Crawler
   rotate: false
-  xy: 1340, 196
+  xy: 1556, 412
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Speeder Hover
   rotate: false
-  xy: 1408, 268
+  xy: 1624, 484
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Battleship
   rotate: false
-  xy: 1380, 232
+  xy: 1596, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Boat
   rotate: false
-  xy: 1448, 304
+  xy: 1664, 508
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Cruiser
   rotate: false
-  xy: 1556, 408
+  xy: 1772, 628
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Locomotive
   rotate: false
-  xy: 1624, 484
+  xy: 1840, 700
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Spider
   rotate: false
-  xy: 1596, 448
+  xy: 1812, 664
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steel Horseman
   rotate: false
-  xy: 1664, 520
+  xy: 1880, 736
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stormtrooper
   rotate: false
-  xy: 1732, 592
+  xy: 124, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tachanka Truck
   rotate: false
-  xy: 1704, 556
+  xy: 1988, 916
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thawed Dreadnought
   rotate: false
-  xy: 1772, 628
+  xy: 1300, 124
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Victoria Artillery
   rotate: false
-  xy: 1840, 700
+  xy: 1340, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1077,119 +1084,119 @@ UnitIcons/Monowheel
   index: -1
 UnitIcons/Ornithopter
   rotate: false
-  xy: 868, 376
+  xy: 976, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rough Rider
   rotate: false
-  xy: 868, 268
+  xy: 976, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Roulette Tank
   rotate: false
-  xy: 976, 376
+  xy: 1084, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Royal Musketeer
   rotate: false
-  xy: 1192, 592
+  xy: 1300, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Skychaser
   rotate: false
-  xy: 760, 52
+  xy: 868, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Snow Crawler
   rotate: false
-  xy: 1084, 376
+  xy: 1192, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Speeder Hover
   rotate: false
-  xy: 1300, 592
+  xy: 1408, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Battleship
   rotate: false
-  xy: 1624, 916
+  xy: 868, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Boat
   rotate: false
-  xy: 868, 52
+  xy: 976, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Cruiser
   rotate: false
-  xy: 976, 160
+  xy: 1084, 268
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Locomotive
   rotate: false
-  xy: 1408, 592
+  xy: 1516, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Spider
   rotate: false
-  xy: 1516, 700
+  xy: 1624, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steel Horseman
   rotate: false
-  xy: 976, 52
+  xy: 1084, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stormtrooper
   rotate: false
-  xy: 1192, 268
+  xy: 1300, 376
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tachanka Truck
   rotate: false
-  xy: 1408, 484
+  xy: 1516, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Thawed Dreadnought
   rotate: false
-  xy: 1516, 592
+  xy: 1624, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Victoria Artillery
   rotate: false
-  xy: 1840, 916
+  xy: 1084, 52
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1245,21 +1252,21 @@ UnitPromotionIcons/Lavernian Navigation
   index: -1
 UnitPromotionIcons/Revolutionary Fervor
   rotate: false
-  xy: 652, 52
+  xy: 760, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Seasoned Killer
   rotate: false
-  xy: 1408, 808
+  xy: 1516, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Winter Explorer
   rotate: false
-  xy: 1516, 484
+  xy: 1624, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
