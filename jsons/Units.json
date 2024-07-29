@@ -1060,7 +1060,7 @@
 		"cost": 150,
 		"requiredTech": "Manufacturing",
 		"uniques": [
-		    	"Personnel",
+		    	"Armor",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Can build [Land] improvements on tiles",
