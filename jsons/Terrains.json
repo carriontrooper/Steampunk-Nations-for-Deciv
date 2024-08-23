@@ -18,7 +18,8 @@
 			"Rare feature",
 			"Rough terrain",
 			//"Every [7] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Units ending their turn on this terrain take [5] damage <for units without [Clockwork Automaton]>",
+			//"Units ending their turn on this terrain take [5] damage <for units without [Clockwork Automaton]>",
+			"Units ending their turn on this terrain take [5] damage",
 			//"Only [Borehole] improvements may be built on this tile"
 		]
 	}
