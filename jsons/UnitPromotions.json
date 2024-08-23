@@ -4,6 +4,7 @@
 		"uniques": [
 			"[+20]% Strength <when defending> <vs [Low Tech] units>",
 			"[+20]% Strength <when defending> <vs [Personnel] units>",
+			"Heal this unit by [5] HP <upon ending a turn in a [Fissure] tile>",
 			"[-100]% XP gained from combat"
 		],
 		"column": 11,
