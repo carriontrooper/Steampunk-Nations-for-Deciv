@@ -465,7 +465,7 @@
 		"obsoleteTech": "Advanced Materials",
 		"uniques": [
 			"Landship"
-			"This Unit gains the [Blooded] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			//"Can move after attacking",
 			"[+25]% Strength <vs [Low Tech] units>",
 			"[-33]% Strength <vs cities> <when attacking>",
@@ -491,7 +491,7 @@
 		"uniques": [
 			"Landship"
 			//"Can move after attacking",
-			"This Unit gains the [Blooded] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"[+25]% Strength <when defending>",
 			"[+50]% Strength <vs [Low Tech] units>",
 			"[-25]% Strength <vs cities> <when attacking>",
@@ -517,7 +517,7 @@
 		"obsoleteTech": "Advanced Materials",
 		"uniques": [
 			"Landship"
-			"This Unit gains the [Blooded] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"Can move after attacking",
 			"[+25]% Strength <vs [Low Tech] units>",
 			"[-25]% Strength <when defending>",
@@ -544,7 +544,7 @@
 		"uniques": [
 			"Landship"
 			"Can move after attacking",
-			"This Unit gains the [Blooded] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"[+50]% Strength <vs [Low Tech] units>",
 			"[-10]% Strength <when defending>",
 			"[-33]% Strength <vs cities> <when attacking>",
@@ -596,7 +596,7 @@
 		"hurryCostModifier": 10,
 		"uniques": [
 			"Personnel",
-			"This Unit gains the [Blooded] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"Never appears as a Barbarian unit",
 			"Only available <if [Munitions Factory] is constructed>",
 			"Consumes [1] [Weapons]"
@@ -878,7 +878,7 @@
 		"upgradesTo": "Soldier",
 		"uniques": [
 			"Personnel",
-			"This Unit gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
 			"Consumes [1] [Weapons]"
 		],
 		"hurryCostModifier": 20,
@@ -901,7 +901,7 @@
 			"Mounted",
 			"No defensive terrain bonus",
 			"Can move after attacking",
-			"This Unit gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Seasoned Killer] promotion <upon defeating a [Military] unit>",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"Only available <in cities with a [Stable]>",
 			"Consumes [1] [Weapons]"
@@ -1064,7 +1064,7 @@
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Can build [Land] improvements on tiles",
-			"Heal this unit by [5] HP <upon ending a turn in a [Fissure] tile>",
+			"[This Unit] heals by [5] HP <upon ending a turn in a [Fissure] tile>",
 			"[-25]% construction time for [All] improvements",
 			"Only available <if [Steelworks] is constructed>",
 			"Consumes [1] [Steam]",
