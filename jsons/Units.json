@@ -243,11 +243,12 @@
 		"obsoleteTech": "Gyroscopes",
 		"upgradesTo": "Helicopter",
 		"uniques": [
-			"[+2] Movement <in [Water] tiles>",
+			"Can only attack [Military] units",
+			//"[+2] Movement <in [Water] tiles>",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-40]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [75]% chance>",
+			//"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Clockwork Workshop] is constructed>",
 			//"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -352,13 +353,15 @@
 		"obsoleteTech": "Lasers",
 		"upgradesTo": "Attack Helicopter",
 		"uniques": [
-			"Skyfarer"	,
-			"[+3] Movement <in [Water] tiles>",
+			"Skyfarer",
+			"Can only attack [Military] units",
+			//"[+3] Movement <in [Water] tiles>",
 			"[+1] Movement <in [Open terrain] tiles>",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [80]% chance>",
+			//"Withdraws before melee combat <with [80]% chance>",
+			"Withdraws before melee combat <with [10]% chance>",
 			"Only available <if [Aetheric Engine Garage] is constructed>",
 			"Consumes [1] [Steam]",
 			"Never appears as a Barbarian unit"
@@ -387,8 +390,8 @@
 			"[+1] Movement <in [Open terrain] tiles>",
 			"[-50]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [25]% chance>",
+			"[-50]% Strength <vs cities> <when attacking>",
+			//"Withdraws before melee combat <with [25]% chance>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Sentry"],
@@ -414,7 +417,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[+10]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [25]% chance>",
+			//"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Dirigible Hangar] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -442,7 +445,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [25]% chance>",
+			//"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Dirigible Hangar] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
