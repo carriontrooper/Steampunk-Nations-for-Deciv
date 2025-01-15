@@ -794,7 +794,7 @@
 			"[-25]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
 			"Destroyed when the city is captured",
-			"Hidden when espionage is disabled",
+			"Only available <when religion is enabled>",
 			"Consumes [1] [Steam]"
 		],
 		"requiredTech": "Civil Service"
@@ -864,7 +864,7 @@
 		"requiredTech": "Education",
 		"uniques": [
 			"Only available <in cities with a [Shrine]>",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Consumes [1] [Steam]"
 		]
 	},
