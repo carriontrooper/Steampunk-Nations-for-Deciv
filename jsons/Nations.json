@@ -208,7 +208,7 @@ UB: Worker's Council
 		"neutralHello": "Oho, I wonder what business brings you here.",
 		"hateHello": "This better be quick, looking at you for too long gives me headaches.",
 
-		"tradeRequest": "May I interest you in an exchange of goods?.",
+		"tradeRequest": "May I interest you in an exchange of goods?",
 
 		"outerColor": [3, 84, 200],
 		"innerColor": [255, 190, 0],
