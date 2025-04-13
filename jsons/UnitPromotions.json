@@ -7,7 +7,7 @@
 			"[This Unit] heals [5] HP <upon ending a turn in a [Fissure] tile>",
 			"[-100]% XP gained from combat"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 1
 	},
 	{
@@ -16,7 +16,7 @@
 			"[+1] Movement",
 			"[+1] Sight"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 2
 	},
 	{
@@ -26,7 +26,7 @@
 			"[+10]% Strength <when attacking> <when above [15] [Steam]>",
 			"[+10]% Strength <when attacking> <when above [25] [Steam]>"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 3
 	},
 	{
@@ -34,7 +34,7 @@
 		"uniques": [
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 4
 	},
 	{
@@ -42,7 +42,7 @@
 		"uniques": [
 			"[+20]% Strength <during a Golden Age>"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 5
 	},
 	{
@@ -52,7 +52,7 @@
 			"[+10]% Strength <when fighting units from a Civilization with more Cities than you>",
 			"[+10]% Strength <when adjacent to a [Revolutionary Fervor] unit>"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 6
 	},
 	{
@@ -60,7 +60,7 @@
 		"uniques": [
 			"No damage penalty for wounded units <when below [10] HP>"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 7
 	},
 	{
@@ -68,7 +68,7 @@
 		"uniques": [
 			"Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 8
 	},
 	{
@@ -77,7 +77,7 @@
 			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles",
 			"[+10]% Strength <vs [Personnel] units>"
 		],
-		"column": 11,
+		"column": 101,
 		"row": 9
 	}
 	
@@ -89,7 +89,7 @@
 			"[+1] Movement <in [Tundra] tiles>",
 			"[+1] Sight <in [Tundra] tiles>",
 		],
-		"column": 11,
+		"column": 101,
 		"row": 10
 	}
 	
