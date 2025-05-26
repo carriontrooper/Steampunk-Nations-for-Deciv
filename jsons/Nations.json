@@ -145,6 +145,7 @@ UB: Worker's Council
 		"neutralHello": ".",
 		"hateHello": ".",
 
+		"denounced": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -208,6 +209,7 @@ UB: Worker's Council
 		"neutralHello": "Oho, I wonder what business brings you here.",
 		"hateHello": "This better be quick, looking at you for too long gives me headaches.",
 
+		"denounced": "Don't worry, we'll fix your views yet.",
 		"tradeRequest": "May I interest you in an exchange of goods?",
 
 		"outerColor": [3, 84, 200],
@@ -275,6 +277,7 @@ UB: Worker's Council
 		"neutralHello": "Bonne chance, mon ami! What wind blew you my way?",
 		"hateHello": "Oof, this dark cloud again! Are you trying to rain on my parade?",
 
+		"denounced": "Exploration's not for everyone, I understand.",
 		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
 
 		"outerColor": [111, 220, 247],
@@ -348,6 +351,7 @@ UB: Worker's Council
 		"neutralHello": "Greetings. May I help you?",
 		"hateHello": "Greetings. Why are you here?",
 
+		"denounced": "Greetings. The forge persists, despite what you think of us.",
 		"tradeRequest": "Greetings. We have surplus production. I hope you do, too.",
 
 		"outerColor": [223, 134, 27],
@@ -416,6 +420,7 @@ UB: Worker's Council
 		"neutralHello": "Hello, hello! What's the occasion?",
 		"hateHello": "Oh, it's you, all rude and savage.",
 
+		"denounced": "And why should I care what a brute thinks of Albion?",
 		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you..",
 
 		"outerColor": [216, 71, 71],
@@ -483,6 +488,7 @@ UB: Worker's Council
 		"neutralHello": "Salut, comrade!",
 		"hateHello": "What do you subversives want?",
 
+		"denounced": "The Revolution will reach you too, in time!",
 		"tradeRequest": "Let us work out a trade deal, comrade.",
 
 		"outerColor": [242, 165, 97],
@@ -550,6 +556,7 @@ UB: Worker's Council
 		"neutralHello": "Howdy. How's life treatin' ya?",
 		"hateHello": "You got guts, showin' your face here.",
 
+		"denounced": "Mighty words from a lily-liver'd yellerbelly.",
 		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
 		"outerColor": [43, 99, 0],
@@ -617,6 +624,7 @@ UB: Worker's Council
 		"neutralHello": "Hej, warm hearts to you!",
 		"hateHello": "I'd rather you freeze far from home, but go on.",
 
+		"denounced": "Such cold words shall not snuff our hearths.",
 		"tradeRequest": "Spare us something? We'll make it worth your while.",
 
 		"outerColor": [40, 50, 77],
