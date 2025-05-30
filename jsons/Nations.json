@@ -494,8 +494,9 @@ UB: Worker's Council
 		"outerColor": [242, 165, 97],
 		"innerColor": [128, 79, 0],
 		"favoredReligion": "Perpetual Revolution",
-		"uniqueName": "Workers' Union",
+		"uniqueName": "Union of Workers",
 		"uniques": [
+			"Russian Unifier",
 			"Starts with [Collectivism] adopted",
 			"[-10]% construction time for [All] improvements",
 			"[+5 Production] <in cities with at least [5] [Population]>",
