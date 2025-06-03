@@ -146,6 +146,7 @@ UB: Worker's Council
 		"hateHello": ".",
 
 		"denounced": ".",
+		"declaringFriendship": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -210,6 +211,7 @@ UB: Worker's Council
 		"hateHello": "This better be quick, looking at you for too long gives me headaches.",
 
 		"denounced": "Don't worry, we'll fix your views yet.",
+		"declaringFriendship": "Together, we shall fix this broken world!",
 		"tradeRequest": "May I interest you in an exchange of goods?",
 
 		"outerColor": [3, 84, 200],
@@ -278,6 +280,7 @@ UB: Worker's Council
 		"hateHello": "Oof, this dark cloud again! Are you trying to rain on my parade?",
 
 		"denounced": "Exploration's not for everyone, I understand.",
+		"declaringFriendship": "Ah, I've traveled the skies far and wide, and I find you to be a good friend.",
 		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
 
 		"outerColor": [111, 220, 247],
@@ -352,6 +355,7 @@ UB: Worker's Council
 		"hateHello": "Greetings. Why are you here?",
 
 		"denounced": "Greetings. The forge persists, despite what you think of us.",
+		"declaringFriendship": "Greetings. We consider you an important industrial partner.",
 		"tradeRequest": "Greetings. We have surplus production. I hope you do, too.",
 
 		"outerColor": [223, 134, 27],
@@ -421,6 +425,7 @@ UB: Worker's Council
 		"hateHello": "Oh, it's you, all rude and savage.",
 
 		"denounced": "And why should I care what a brute thinks of Albion?",
+		"declaringFriendship": "Albion graciously extends the noble hand of friendship towards you.",
 		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you..",
 
 		"outerColor": [216, 71, 71],
@@ -489,6 +494,7 @@ UB: Worker's Council
 		"hateHello": "What do you subversives want?",
 
 		"denounced": "The Revolution will reach you too, in time!",
+		"declaringFriendship": "We are proud to have you as a fellow Revolutionary, and a honorary comrade!",
 		"tradeRequest": "Let us work out a trade deal, comrade.",
 
 		"outerColor": [242, 165, 97],
@@ -558,6 +564,7 @@ UB: Worker's Council
 		"hateHello": "You got guts, showin' your face here.",
 
 		"denounced": "Mighty words from a lily-liver'd yellerbelly.",
+		"declaringFriendship": "I 'preciate your attitude. Lemme pour you a cold one.",
 		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
 		"outerColor": [43, 99, 0],
@@ -626,6 +633,7 @@ UB: Worker's Council
 		"hateHello": "I'd rather you freeze far from home, but go on.",
 
 		"denounced": "Such cold words shall not snuff our hearths.",
+		"declaringFriendship": "Let us grow closer, and warmer, together.",
 		"tradeRequest": "Spare us something? We'll make it worth your while.",
 
 		"outerColor": [40, 50, 77],
