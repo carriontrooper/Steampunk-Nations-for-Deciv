@@ -249,7 +249,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 0,
 		"uniques": [
-			"[+5]% maintenance cost for buildings [in this city]",
+			"[+5]% maintenance cost for [All] buildings [in this city]",
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured"
 		],
