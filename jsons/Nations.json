@@ -366,7 +366,7 @@ UB: Worker's Council
 			"[Landship] units gain the [Krieger Engineering] promotion",
 			"[+20]% maintenance costs <when above [20] [Steam]>",
 			"[+10 Production] [in all cities] <when above [10] [Steam]>",
-			"Double quantity of [Weapons] produced <when above [10] [Steam]>",
+			"[100]% [Weapons] resource production <when above [10] [Steam]>",
 			"Starts with [Iron Working]"
 		],
 		"cities": [
@@ -436,7 +436,7 @@ UB: Worker's Council
 			"Starts with [Monopoly] adopted",
 			"[Military] units gain the [Albion's Finest] promotion",
 			"[+20]% Gold from Great Merchant trade missions",
-			"Double quantity of [Slaves] produced <during a Golden Age>",
+			"[100]% [Slaves] resource production <during a Golden Age>",
 		],
 		"cities": [
 			"Westminster",
