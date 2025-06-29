@@ -789,7 +789,7 @@
 		"happiness": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[+1 Faith] [in this city] <when above [4] [Steam]>",
 			"[-25]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
