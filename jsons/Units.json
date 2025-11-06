@@ -12,6 +12,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
@@ -35,6 +36,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
@@ -61,6 +63,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
@@ -86,6 +89,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 		    "Mounted",
 			"Clockwork Powered",
 			"No defensive terrain bonus",
@@ -110,6 +114,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 		    "Mounted",
 			"Clockwork Powered",
 			"Unbuildable",
@@ -137,6 +142,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 		    "Mounted",
 			"Clockwork Powered",
 			"Unbuildable",
@@ -165,6 +171,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
@@ -187,6 +194,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
@@ -213,6 +221,7 @@
 		//"obsoleteTech": "Combined Arms",
 		"uniques": [
 		    "Personnel",
+			"Automated",
 			"Clockwork Powered",
 			"Unbuildable",
 			"Cannot be purchased",
@@ -492,7 +501,7 @@
 		"upgradesTo": "Modern Armor",
 		"obsoleteTech": "Advanced Materials",
 		"uniques": [
-			"Landship"
+			"Landship",
 			//"Can move after attacking",
 			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"[+25]% Strength <when defending>",
@@ -519,7 +528,7 @@
 		"upgradesTo": "Gunther Lpz Mk II",
 		"obsoleteTech": "Advanced Materials",
 		"uniques": [
-			"Landship"
+			"Landship",
 			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"Can move after attacking",
 			"[+25]% Strength <vs [Low Tech] units>",
@@ -545,7 +554,7 @@
 		"upgradesTo": "Modern Armor",
 		"obsoleteTech": "Advanced Materials",
 		"uniques": [
-			"Landship"
+			"Landship",
 			"Can move after attacking",
 			"[This Unit] gains the [Blooded] promotion <upon defeating a [Military] unit>",
 			"[+50]% Strength <vs [Low Tech] units>",
@@ -1063,7 +1072,8 @@
 		"cost": 150,
 		"requiredTech": "Manufacturing",
 		"uniques": [
-		    	"Armor",
+		    "Armor",
+			"Automated",
 			"No defensive terrain bonus",
 			"No defensive terrain penalty",
 			"Can build [Land] improvements on tiles",
