@@ -885,7 +885,7 @@
 		]
 	},
 	{
-		"name": "Hothouse",
+		"name": "Hearthhouse",
 		"replaces": "Greenhouse",
 		"uniqueTo": "Winterhearth",
 		"food": 2,
