@@ -186,9 +186,9 @@ BuildingIcons/Grand Royal Palace
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hothouse
+BuildingIcons/Hearthhouse
   rotate: false
-  xy: 868, 700
+  xy: 760, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -573,7 +573,7 @@ TileSets/FantasyHex/Tiles/Coal Thumper
   index: -1
 TileSets/FantasyHex/Tiles/Steam Hub
   rotate: false
-  xy: 1948, 864
+  xy: 1812, 660
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -825,63 +825,63 @@ TileSets/FantasyHex/Units/Steam Battleship
   index: -1
 TileSets/FantasyHex/Units/Steam Boat
   rotate: false
-  xy: 1664, 508
+  xy: 1772, 628
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Cruiser
   rotate: false
-  xy: 1772, 628
+  xy: 1840, 700
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Locomotive
   rotate: false
-  xy: 1840, 700
+  xy: 1880, 736
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steam Spider
   rotate: false
-  xy: 1812, 664
+  xy: 124, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Steel Horseman
   rotate: false
-  xy: 1880, 736
+  xy: 1948, 868
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stormtrooper
   rotate: false
-  xy: 124, 16
+  xy: 1988, 916
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tachanka Truck
   rotate: false
-  xy: 1988, 916
+  xy: 1300, 124
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Thawed Dreadnought
   rotate: false
-  xy: 1300, 124
+  xy: 1340, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Victoria Artillery
   rotate: false
-  xy: 1340, 160
+  xy: 1380, 196
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1049,7 +1049,7 @@ UnitIcons/Hazard Steamsuit
   index: -1
 UnitIcons/Helix Aircopter
   rotate: false
-  xy: 760, 592
+  xy: 868, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
