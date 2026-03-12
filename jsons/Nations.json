@@ -363,6 +363,7 @@ UB: Worker's Council
 		"favoredReligion": "Vorsprung Durch Technik",
 		"uniqueName": "Unrelenting Industry",
 		"uniques": [
+			"Germanic Unifier",
 			"[Landship] units gain the [Krieger Engineering] promotion",
 			"[+20]% maintenance costs <when above [20] [Steam]>",
 			"[+10 Production] [in all cities] <when above [10] [Steam]>",
