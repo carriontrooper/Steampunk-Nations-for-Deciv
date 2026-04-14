@@ -221,6 +221,13 @@ UB: Worker's Council
 		"declaringFriendship": "Together, we shall fix this broken world!",
 		"tradeRequest": "May I interest you in an exchange of goods?",
 
+		"neutralDenouncing": "I've noticed you've stepping out of time lately. I must analyze you more from a distance.",
+		"hateDenouncing": "It is one thing to be broken, but it is a depressing and despicable thing to refuse to fix yourself.",
+		
+		"acceptingDemand": "Yes, this fits neatly.",
+		"neutralRejectingDemand": "Sorry, this does not fit into my blueprints.",
+		"hateRejectingDemand": "No, this deal will break quickly.",
+
 		"outerColor": [3, 84, 200],
 		"innerColor": [255, 190, 0],
 		"favoredReligion": "Savant Sainthood",
@@ -289,6 +296,13 @@ UB: Worker's Council
 		"denounced": "Exploration's not for everyone, I understand.",
 		"declaringFriendship": "Ah, I've traveled the skies far and wide, and I find you to be a good friend.",
 		"tradeRequest": "Bon dieu, mon ami! We were just passing by, and noticed that there are some supplies we need to replenish soon...",
+
+		"neutralDenouncing": "Some say we are fickle like the wind, and today the wind blows away from you. I hope you understand, mon ami.",
+		"hateDenouncing": "Alas, the skies are not expansive enough for us to get away from you! This is a tragedy!",
+		
+		"acceptingDemand": "Oui, comfortable like a warm breeze.",
+		"neutralRejectingDemand": "Desole, mon ami - this won't fly.",
+		"hateRejectingDemand": "Non, pas ajourd'hui - maybe when pigs fly.",
 
 		"outerColor": [111, 220, 247],
 		"innerColor": [144, 47, 222],
@@ -365,6 +379,13 @@ UB: Worker's Council
 		"declaringFriendship": "Greetings. We consider you an important industrial partner.",
 		"tradeRequest": "Greetings. We have surplus production. I hope you do, too.",
 
+		"neutralDenouncing": "Greetings. We have to cut diplomatic ties now.",
+		"hateDenouncing": "Greetings. We think you are insignificant.",
+		
+		"acceptingDemand": "Agreed.",
+		"neutralRejectingDemand": "Refused.",
+		"hateRejectingDemand": "Refused. Detrimental to industry.",
+
 		"outerColor": [223, 134, 27],
 		"innerColor": [148, 28, 8],
 		"favoredReligion": "Vorsprung Durch Technik",
@@ -434,7 +455,14 @@ UB: Worker's Council
 
 		"denounced": "And why should I care what a brute thinks of Albion?",
 		"declaringFriendship": "Albion graciously extends the noble hand of friendship towards you.",
-		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you..",
+		"tradeRequest": "This trade deal with Grand Albion is in your best interest, I assure you.",
+
+		"neutralDenouncing": "My citizens are thinking that you've fallen out of Albion's graces. I hope that is not true, but we desire some distance between us all the same.",
+		"hateDenouncing": "I don't know why Albion must deal with a rude, boorish, barbaric and perfidious neighbor such as you!",
+		
+		"acceptingDemand": "By Albion, I agree.",
+		"neutralRejectingDemand": "I cannot in good conscience accept this.",
+		"hateRejectingDemand": "Oh, pish posh! Not even the poorest beggar in all of Albion would accept this.",
 
 		"outerColor": [216, 71, 71],
 		"innerColor": [243, 207, 255],
@@ -504,6 +532,13 @@ UB: Worker's Council
 		"denounced": "The Revolution will reach you too, in time!",
 		"declaringFriendship": "We are proud to have you as a fellow Revolutionary, and a honorary comrade!",
 		"tradeRequest": "Let us work out a trade deal, comrade.",
+
+		"neutralDenouncing": "You're straying from the path of Revolution, comrade!",
+		"hateDenouncing": "Whether you are a counter-revolutionary, filthy capitalist, decadent bourgeouise, jack-booted fascist, or whatever - you will not stop the Revolution!",
+		
+		"acceptingDemand": "The Revolution wills it!",
+		"neutralRejectingDemand": "This is not revolutionary enough.",
+		"hateRejectingDemand": "Are you trying to subvert us from the path of Revolution? No!",
 
 		"outerColor": [242, 165, 97],
 		"innerColor": [128, 79, 0],
@@ -575,6 +610,13 @@ UB: Worker's Council
 		"declaringFriendship": "I 'preciate your attitude. Lemme pour you a cold one.",
 		"tradeRequest": "Hold yer horses, we're just here to trade.",
 
+		"neutralDenouncing": "Folks be sayin' a lotta things about you. We'll be keeping a distance.",
+		"hateDenouncing": "So, you are as yellow-bellied and lily-livered as they say you are, huh?",
+		
+		"acceptingDemand": "Sure as shot.",
+		"neutralRejectingDemand": "That ain't fair enough, pardner.",
+		"hateRejectingDemand": "You must be crazy to think we'll come to terms with this.",
+
 		"outerColor": [43, 99, 0],
 		"innerColor": [250, 230, 210],
 		"favoredReligion": "Caliber Gospel",
@@ -643,6 +685,13 @@ UB: Worker's Council
 		"denounced": "Such cold words shall not snuff our hearths.",
 		"declaringFriendship": "Let us grow closer, and warmer, together.",
 		"tradeRequest": "Spare us something? We'll make it worth your while.",
+
+		"neutralDenouncing": "Sorry, but we must close our hearths to you for now.",
+		"hateDenouncing": "You'll never know the warmth of our hearths, you cold of heart.",
+		
+		"acceptingDemand": "Yes, this warms our hearts.",
+		"neutralRejectingDemand": "This feels a bit cold.",
+		"hateRejectingDemand": "This will cause my people to be left in the cold - I refuse.",
 
 		"outerColor": [40, 50, 77],
 		"innerColor": [208, 241, 247],
