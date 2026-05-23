@@ -73,7 +73,7 @@
 			"Naturalism": 0,
 			"Mechanization": 20,
 			"Bionics": 40
-		},
+		}
 	},
 
 	{
@@ -110,7 +110,7 @@
 			"Naturalism": 10,
 			"Mechanization": 20,
 			"Bionics": 0
-		},
+		}
 	},
 
 	{
@@ -147,7 +147,7 @@
 			"Naturalism": 0,
 			"Mechanization": 40,
 			"Bionics": 20
-		},
+		}
 	},
 
 	{
@@ -184,7 +184,7 @@
 			"Naturalism": 40,
 			"Mechanization": 20,
 			"Bionics": 10
-		},
+		}
 	},
 
 	{
@@ -221,7 +221,7 @@
 			"Naturalism": 0,
 			"Mechanization": 40,
 			"Bionics": 30
-		},
+		}
 	},
 
 	{
@@ -258,8 +258,8 @@
 			"Naturalism": 10,
 			"Mechanization": 20,
 			"Bionics": 10
-		},
-	}
+		}
+	},
 
 	{
 		"name": "Snorberg",
@@ -295,7 +295,44 @@
 			"Naturalism": 0,
 			"Mechanization": 30,
 			"Bionics": 30
-		},
+		}
+	}
+/*
+	{
+		"name": "Gang Long",
+		// Stats focused personalities
+		"production": 7,
+		"food": 7,
+		"gold": 6,
+		"science": 5,
+		"culture": 5,
+		"happiness": 5,
+		"faith": 5,
+		// Behaviour focused personalities
+		"military": 8,
+		"aggressive": 7,
+		"declareWar": 7,
+		"commerce": 6,
+		"diplomacy": 5,
+		"loyal": 7,
+		"expansion": 8,
+		"denounceWillingness": 6,
+
+		"priorities": {
+			"Adaptation": 10,
+			"Expansionism": 30,
+			"Sovereignty": 30,
+			"Theocracy": 20,
+			"Rationalism": 20,
+			"Constitution": 0,
+			"Supremacy": 30,
+			"Monopoly": 20,
+			"Collectivism": 20,
+			"Naturalism": 20,
+			"Mechanization": 20,
+			"Bionics": 0
+		}
 	},
+*/
 
 ]
