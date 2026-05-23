@@ -990,6 +990,11 @@
 	UB: House of Prayer
 	UB: Labour Union
 	UB: Worker's Council
+
+	Steel Dragon Dynasty:
+	UB: Steam Purifier Apparatus (alleviates steam penalties by 'absorbing' steam per turn, basically a steam sink)
+	UB: Automata Gallery (more culture if more steam)
+	UB: Mechanical Augury Hall (more science if more steam)
 	*/
 	
 	// non-unique steam producers
