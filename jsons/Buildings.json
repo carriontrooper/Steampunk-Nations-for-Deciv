@@ -106,7 +106,7 @@
 		"quote": "'Workers of the world, unite!' - the only plaque on the monument.",
 		"civilopediaText": [
 			{
-				"text": "Despite its makeshift composition, this particular monument lights a fervor in the hearts who saw it.."
+				"text": "Despite its makeshift composition, this particular monument lights a fervor in the hearts who saw it."
 			}
 		]
 	},
@@ -156,7 +156,29 @@
 			}
 		]
 	},
-	
+
+/*
+	{
+		"name": "Steam Palace",
+		"isWonder": true,
+		"uniqueTo": "Steel Dragon Dynasty",
+		"production": 2,
+		"gold": 1,
+		"cost": 1,
+		"uniques": [
+			"Provides [5] [Steam]",
+			"[1] free [Brass Legion] units appear",
+			"Can only be built <in [Capital] cities>",
+			"Automatically built in all cities where it is buildable"
+		],
+		"quote": "'Our ancestors built this palace, and it falls upon us to keep its balance maintained.'",
+		"civilopediaText": [
+			{
+				"text": "A regal complex built around a central steam boiler, it still runs despite its pre-Collapse age."
+			}
+		]
+	},
+*/
 	
 	// unique buildings
 	// Vincian
