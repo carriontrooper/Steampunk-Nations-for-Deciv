@@ -120,7 +120,7 @@ UB: House of Prayer
 UB: Labour Union
 UB: Worker's Council
 
-Jadesteel Dynasty
+Steel Dragon Dynasty
 oriental steampunk flavor, think Fire Nation from ATLA. Gameplay idea is balance - military units' strength and production rises with more steam, but food intake/growth start to get penalties if there's too much steam.
 UW: Jade Palace (spawns 1 Brass Legion)
 UU: Kite Warrior (paratrooper but can launch from tiles adjacent to mountain)
@@ -609,8 +609,8 @@ UB: Mechanical Augury Hall (more science if more steam)
 		"personality": "Winchester",
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": "Y'all might wonder how the Wild Stallions got its name. Well, long time ago, there was a bar of that name, full o' rough and rowdy folks with camaraderie in their hearts. Then the calamity came and them folks scattered to the four winds. But, you know how us 'salt of the earth'-types, we got back like cockroaches.",
-		"startIntroPart2": "So, there we were, years later. Some of us were the original bastards who survived. Some others have only heard of the place and the legends. Yet some others stumbled upon us, guided by fate. By that time, the old bar was long gone, but the spirit still lives on within us all. And now, folks call us many names. Couriers, Rail-chasers, Desperadoes, Bounty hunters... but Wild Stallions still fit us best - we're unpredictable, and we're free!",
+		"startIntroPart1": "'Y'all might wonder how the Wild Stallions got its name. Well, long time ago, there was a bar of that name, full o' rough and rowdy folks with camaraderie in their hearts. Then the calamity came and them folks scattered to the four winds. But, you know how us 'salt of the earth'-types, we got back like cockroaches.'",
+		"startIntroPart2": "'So, there we were, years later. Some of us were the original bastards who survived. Some others have only heard of the place and the legends. Yet some others stumbled upon us, guided by fate. By that time, the old bar was long gone, but the spirit still lives on within us all. And now, folks call us many names. Couriers, Rail-chasers, Desperadoes, Bounty hunters... but Wild Stallions still fit us best - we're unpredictable, and we're free!'",
 
 		"declaringWar": "Reckon it's about high noon 'tween the two of us.",
 		"attacked": "That's the last straw from you, varmint.",
@@ -758,5 +758,88 @@ UB: Mechanical Augury Hall (more science if more steam)
 			"Johan"
 		]
 	}
+
+/*
+	{
+		"name": "Steel Dragon Dynasty",
+		"leaderName": "Gang Long Wang",
+		"adjective": ["Steel Dragon"],
+		"startBias": ["Badlands"],
+		"personality": "Gang Long",
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "'My loyal citizens! Long have you suffered hardships during the Great Disaster, brought about by a sheer imbalance of power in the world. But we survived due to my ancestors' forward thinking and ingenuity in the form of steam power, a way to restore global balance.'",
+		"startIntroPart2": "'As your sovereign, I, Gang Long Wang, solemnly swear to uphold this new balance, and protect you as my ancestors did. May the Steel Dragon Dynasty last for more than a thousand years!'",
+
+		"declaringWar": "It is time for us to clash our blades against one another!",
+		"attacked": "You are courting death!",
+		"defeated": "Now I understand - like a peach blossom or a puff of steam, nothing is truly eternal...",
+		"introduction": "You have entered the domain of the Steel Dragon Dynasty. I am its one true sovereign, Gang Long Wang! Do remember it as you pass through.",
+
+		"neutralHello": "Today is a good day to talk. After you.",
+		"hateHello": "Today is a good day to die. After you.",
+
+		"denounced": "What twisted words you utter shall you reap tenfold.",
+		"declaringFriendship": "I am honored to call you a brother-in-arms, if you are of the same mind.",
+		"tradeRequest": "The season is ripe for an exchange of gifts, don't you say?",
+
+		"neutralDenouncing": "Your wicked deeds have reached me, and part we must.",
+		"hateDenouncing": "I must say, never have I seen such an honorless cur as yourself.",
+		
+		"acceptingDemand": "Reasonable. I shall accept.",
+		"neutralRejectingDemand": "This is not fair and just.",
+		"hateRejectingDemand": "Do not make me mistake this for an attempt at provocation.",
+
+		"outerColor": [219, 110, 0],
+		"innerColor": [179, 147, 145],
+		"favoredReligion": "Dragon's Path",
+		"uniqueName": "Balance of Ying and Yang",
+		"uniques": [
+			"[-30]% growth [in all cities] <when number of [[Steam]/5] is above [[Cities]*2]>",
+			"[-20]% growth [in all cities] <when number of [[Steam]/5] is above [[Cities]*[3/2]]>",
+			"[-10]% growth [in all cities] <when number of [[Steam]/5] is above [Cities]>",
+			"[-30]% [Food] [in all cities] <when number of [[Steam]/5] is above [[Owned [Food source] Tiles]*2]>",
+			"[-20]% [Food] [in all cities] <when number of [[Steam]/5] is above [[Owned [Food source] Tiles]*[3/2]]>",
+			"[-10]% [Food] [in all cities] <when number of [[Steam]/5] is above [Owned [Food source] Tiles]>",
+			"[+30]% Production when constructing [Military] units [in all non-occupied cities] <when number of [[Steam]/5] is above [[Cities]*2]>",
+			"[+20]% Production when constructing [Military] units [in all non-occupied cities] <when number of [[Steam]/5] is above [[Cities]*[3/2]]>",
+			"[+10]% Production when constructing [Military] units [in all non-occupied cities] <when number of [[Steam]/5] is above [Cities]>",
+		],
+		"cities": [
+			"Zhengqi Palace",
+			"Yuhe City",
+			"Tieshan Fort",
+			"Bai Long Inn",
+			"Laohu Forest",
+			"Lengxue Mountain",
+			"Yaoyuan Town",
+			"Honghuo Mountain",
+			"Chenshui Town",
+			"Gaocao Plains",
+			"Qingzhu Forest",
+			"Kuangye Hills",
+			"Hongling Mountain",
+			"Xuezhe City",
+			"Anying Forest",
+			"Wenquan Town",
+			"Pingjing Lake",
+			"Jizhen Town",
+			"Qiancheng Temple",
+			"Jiangu Fort"
+		],
+		"spyNames": [
+			"Brother Shadow Blade",
+			"Sister Flying Dagger",
+			"Brother Iron Fist",
+			"Sister Red Lotus",
+			"Brother Snake Fang",
+			"Sister Mountain Snow",
+			"Brother Silent Arrow",
+			"Sister Ghost Touch",
+			"Brother Poison Claw",
+			"Sister Blood Spider"
+		]
+	}
+*/
 
 ]
