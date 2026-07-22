@@ -761,7 +761,7 @@ UB: Mechanical Augury Hall (more science if more steam)
 
 /*
 	{
-		"name": "Steel Dragon Dynasty",
+		"name": "Steel Dragon Sect",
 		"leaderName": "Gang Long Wang",
 		"adjective": ["Steel Dragon"],
 		"startBias": ["Badlands"],
@@ -769,12 +769,12 @@ UB: Mechanical Augury Hall (more science if more steam)
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "'My loyal citizens! Long have you suffered hardships during the Great Disaster, brought about by a sheer imbalance of power in the world. But we survived due to my ancestors' forward thinking and ingenuity in the form of steam power, a way to restore global balance.'",
-		"startIntroPart2": "'As your sovereign, I, Gang Long Wang, solemnly swear to uphold this new balance, and protect you as my ancestors did. May the Steel Dragon Dynasty last for more than a thousand years!'",
+		"startIntroPart2": "'As your sect leader, I, Gang Long Wang, solemnly swear to uphold this new balance, and protect you as my ancestors did. May the Steel Dragon Sect last for more than a thousand years!'",
 
 		"declaringWar": "It is time for us to clash our blades against one another!",
 		"attacked": "You are courting death!",
 		"defeated": "Now I understand - like a peach blossom or a puff of steam, nothing is truly eternal...",
-		"introduction": "You have entered the domain of the Steel Dragon Dynasty. I am its one true sovereign, Gang Long Wang! Do remember it as you pass through.",
+		"introduction": "You have entered the domain of the Steel Dragon Sect. I am its one true sect leader, Gang Long Wang! Do remember it as you pass through.",
 
 		"neutralHello": "Today is a good day to talk. After you.",
 		"hateHello": "Today is a good day to die. After you.",
